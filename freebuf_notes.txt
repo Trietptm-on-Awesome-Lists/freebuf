@@ -1,0 +1,2303 @@
+Reversing.kr
+
+# 在线工具
+X Brute Forcer：一款小巧易用的CMS密码爆破工具
+在线的子域名遍历工具
+ Solveme.peng.kr
+https://findsubdomains.com/
+WordPress , Joomla , DruPal , OpenCart , Magento。
+Shodan
+cmd5
+Empire 2.5：PowerShell渗透测试实战指南
+VirusTotal是一个免费的文件扫毒在线服务
+Hashcat密码破解
+Drupal CMS团队修复了一个重要安全漏洞，黑客可以通过访问URL接管网站。
+
+2018-03-29,F=0, Shellen：交互式shellcode开发环境
+https://github.com/JonCooperWorks/judas
+
+
+ZoomEye 钟馗之眼 10109 https://blog.csdn.net/u011721501/article/details/41967847 Exp积累<<https://www.zoomeye.org/
+2013-02-19,F=1, 黑客是怎样入侵你的网站的
+theHarvester v2.2a
+# Net
+Nmap
+NC用法别有洞天
+# Web
+2013-02-06,F=0, Web渗透测试框架-Zed Attack Proxy v 2.0.0（OWASP出品）
+2013-02-04,F=0, 移动渗透测试套件Revenssis破解—2012最后一个冷笑话
+
+## XSS
+xss 10229
+## WebShell
+2013-02-17,F=0, [hook.js]通用Javascript函数钩子
+IRC发送战争指令
+OWASP Xenotix XSS Exploit Framework一个高效的跨站脚本漏洞（XSS）检测和攻击测试框架**https://www.owasp.org/index.php?title=OWASP_Xenotix_XSS_Exploit_Framework&setlang=es
+中国菜刀www.maicaidao.com webshell的client C&C管理器和server side payload。
+Pytbull是一款IDS/IPS测试工具
+HC-HYDRA是一个支持多种网络服务的非常快速的网络登陆破解工具
+rootkit.com
+## RAT
+Poison Ivy常见于於许多APT攻击，是拥有档案管理、机码管理、程序管理、萤幕抓取、声音档录製等多功能的远端木马工具(RAT)
+byshell
+
+# 木马、蠕虫、病毒
+KINS,2013年初RSA研究人员发现一个商业银行木马，名为KINS，该恶意软件在俄罗斯的一个地下黑市论坛被公布。据RSA专家表示，尽管从KINS源码来看，该木马不是基于以往的恶意软件开发，但是它与之前的几款木马如Citadel、Zeus、SpyEye等有许多相似之处，包括一个主文件加载DLL文件，Zeus的Web注射、SpyEye的Anti-Rapport插件功能等。
+
+# 二进制
+
+UPX，压缩加壳开源工具
+WinHex， 二进制文件查看工具
+PEID，一个免费检测软件使用的加壳手法的工具
+
+# Android
+Xposed
+
+
+# iOS
+
+
+# 密码暴力
+SSH暴力破解大约自linux系列产品诞生之后，就衍生出来的一种攻击行为，不仅仅SSH暴力破解，ftp、telnet、smtp、mysql等等都是暴力美学黑客的最爱。
+Patator 支持ssh/ftp等很多protocal。https://github.com/lanjelot/patator
+
+# 安全资讯源
+reddit/netsec
+Fireeye国外的安全公司
+BlackHat/Defcon
+GeekPwn
+n0where.net CyberPunk开源的安全工具分享
+http://www.phrack.org/
+
+# 组织&人物
+斯诺登
+https://zh.wikipedia.org/wiki/LulzSec(看下方列表)
+Barnaby Jack（ID：dark spyrit）
+吴翰清
+幻影旅团
+魏兴国,网名云舒，2005年加盟绿盟，2006年入职雅虎，2008年加入阿里巴巴集团，现任阿里巴巴集团安全部高级安全专家，前期主要负责集团全局性的网络安全策略，现在主要负责阿里巴巴的云计算安全。
+
+古代历史(90-09) 10120
+
+
+# 个人信息安全
+全盘加密工具TrueCrypt
+
+
+# 企业信息安全
+一个杀毒软件，一个IDS(入侵检测)，一个WAF（Web application firewall)
+
+源码审计
+
+Yara 开源的恶意软件sample管理工具，可以说是病毒库的管理器
+
+ 开源入侵检测系统(IDS/IPS)：Snort V2.9.5
+10619
+# 技巧
+Right-to-left override技巧，Unicode编码为0x202E
+Gephi 开源免费数据可视化软件
+
+# SQL注入
+sqlmap, sql注入技巧全集10165
+SQL注入测试工具——Safe3SI_9.0破解版 完全图形界面
+穿山甲（pangolin）和胡萝卜（havij）
+
+# CTF
+
+
+
+helen是谁？10194
+
+
+# 警钟
+当你要隐藏的时候，已经晚了。10212
+
+天蝎座web安全渗透测试工具集V5 发布
+
+androRAT
+
+python-libnmap
+
+社会工程学工具集SET v5.1发布，代号“Name of the Doctor”
+
+钓鱼
+御剑web指纹识别程序
+dns反查
+Web日志安全分析工具 v2.0发布IIS W3C、Apache/Tomcat/Nginx默认日志格式默认可检测SQL注入/XSS攻击/IIS写权限漏洞利用/Struts远程命令执行漏洞等多种攻击类型，实际情况取决于攻击特征库中的特征。
+Nessus
+cnhawk的议题《建设新企业安全体系》：
+superhei《我的安全世界观（删节版）》：
+
+PEDA是Long Le在Blackhat2012黑帽会议中放出的Python脚本工具，
+axis的议题《黑客来了怎么办》：
+再谈内网渗透，Windows域
+https://github.com/Arachni/arachni
+2013-04-10,F=0, LFI（本地包含）漏洞助手—Panoptic
+
+
+SCADA
+LulzSec
+
+成员：
+
+**Raynaldo Rivera**（neuron）亚利桑那洲的21岁
+
+LulzSec黑客组织对Sony影业的入侵，导致138000用户数据被泄露。
+
+https://zh.wikipedia.org/wiki/LulzSec
+Acunetix Web Vulnerability Scanner 8.20130308 Release
+网站整站下载工具—HTTrack Website Copier
+
+https://pentesterlab.com/
+PowerSploit
+HBGary
+Websense.
+2013-03-27,F=1, HTTP(S)中间人流量分析&蜜罐工具—HoneyProxy
+近日，安全公司Trustwave的SpiderLabs实验室做了一系列社会工程学的实验，使用了社工种经典的手法，证明这些手法仍然非常有效，利用人的好奇心获得了需要的信息。
+2013-03-27,F=0, 免费网络监控抓包工具—Capsa
+项目地址：https://github.com/loveshell/ngx_lua_waf
+
+burpsuite
+
+2013-03-21,F=0, XSS漏洞攻击测试平台—XSSF v3.0
+http://www.exploit-db.com/webapps/
+
+社会工程学工具集Social-Engineer Toolkit (SET) v4.7发布
+http://stealth.openwall.net/xSports/clown-newuser.c
+https://krebsonsecurity.com/
+.
+Phrozen Keylogger Lite v1.0发布
+SQL注入点自动化利用测试工具—shoryuken
+要有几个有趣的人评论
+网站技术指纹分析工具（Chrome扩展）—Website Analyzer
+开源入侵检测系统Snort V2.9.4.1发
+Pwn2Own
+Sandbox
+https://sourceforge.net/projects/mastiff/
+https://github.com/feross/filldisk.com
+web渗透信息侦察收集工具——Recon-ng
+https://packetstormsecurity.com/files/download/120219/wee.tar.bz2
+1:熟悉各种WEB漏洞(SQL注射,XSS,CSRF,命令执行,包含,CRLF)
+2:熟练使用常用的大型扫描器和高级工具
+3:有清晰的思路,有着自己的一套奇技淫巧
+FireEye.
+在线旁站查询|C段查询|必应接口C段查询|同ip网站查询
+w3af简单使用教程
+Sqli-Labs专业SQL注入测试平台
+Ubuntu下安装BeEF
+ Android开源安全评估框架-ASEF
+恶意软件分析工具—Hook Analyser v2.3
+1337day
+2012-08-22,F=0, 中间人攻击(MITM)防御工具—Etherwall v1.0 Beta3
+
+2012-11-09,F=0, 渗透测试神器Burp弹药扩充-fuzzdb
+2012-09-12,F=0, [更新]HTTP Dos攻击压力测试工具-Slowhttptest 1.5
+https://github.com/shekyan/slowhttptest
+
+2012-11-07,F=0, [更新]暴力破解工具-Patator V0.4
+https://github.com/PowerShellMafia/PowerSploit
+2012-05-14,F=0, SQL注入工具 - sqlcake
+2012-05-11,F=0, 社工利器—theHavrest
+
+2012-08-20,F=0, Chrome浏览器跨站渗透测试框架—XSS ChEF v1.0
+2012-06-11,F=0, 入侵检测系统-Suricata 1.3 Beta2 发布
+ezXSS
+Zed Attack Proxy简写为ZAP，是一个简单易用的渗透测试工具，是发现Web应用中的漏洞的利器，更是渗透测试爱好者的好东西。
+2012-06-12,F=0, Webshell扫描工具WebShellDetector V1.51
+2012-06-12,F=0, SQL盲注工具-Blind Cat
+PowerShell-RAT
+https://github.com/alcuadrado/hieroglyphy
+基于golang语言的CHAOS远程后门
+2012-06-13,F=0, 彩虹表下载地址大集合
+android Frida
+2012-07-24,F=0, [更新]开源渗透测试框架 - HconSTF V0.4
+https://github.com/lgandx/Responder
+Sentry
+https://github.com/Kevin-Robertson/Inveigh
+https://github.com/feexd/vbg
+https://github.com/purpleteam/snarf
+DEGUADR
+https://github.com/fox-it/mitm6
+2012-06-14,F=0, XSS过滤器 - DeXSS V1.2
+https://gist.github.com/zythum/2848881
+HELK
+开源WAF（modsecurity）更新版本至2.6.6
+KLara project：分布式YARA恶意软件扫描系统
+OpenRASP
+x64dbg
+APTSimulator
+2018-03-04,F=0, Injectify：一款执行MiTM攻击的工具
+2018-03-04,F=0, 使用Egressbuster测试防火墙出站规则
+2018-03-04,F=0, Pwnable.tw刷题之Silverbullet破解过程分享
+2018-03-03,F=0, LuLu：一款macOS的开源防火墙
+The Zed Attack Proxy (ZAP) 是一个开源工具，由 Open Web Application Security Project (OWASP) 维护，拥有庞大的开发人员社区，可快速提供新模块或附加组件。 
+2018-02-27,F=0, 基于SonarQube的自动化代码缺陷检测：WebGoat实战（一）
+2018-02-26,F=0, Archery：开源漏洞评估和管理工具
+2018-02-24,F=0, Altdns：运用置换扫描技术的子域发现工具
+FireEye在GitHub上开源密码破解工具GoCrack
+DefectDojo
+VirtualApp
+多功能Python键盘记录工具：Radium
+https://github.com/Lucifer1993/AngelSword
+利用Angr进行简单CTF逆向分析
+https://github.com/wstart/webshell
+https://github.com/KrauseFx/steal.password
+https://github.com/ysrc/webshell-sample
+ Poet：一款功能强大的后渗透工具
+基于Openresty实现业务安全防护
+
+
+1. Acalvio ShadowPlex
+类别：欺骗技术
+欺骗技术是一个新兴领域，某些实现简单有效部署的技术一直处于瓶颈阶段。Acalvio ShadowPlex却在这些技术难点上起到表率作用。例如，它为客户提供了数量不限的欺骗资产，避免了经常性的维护和成本投入。这些欺骗点能够在客户有需要时立即生效，锁定攻击者并持续跟进，获得有价值的威胁情报，随后该工具独自展开追踪行动或与Splunk这样的SIEM联动，将其从受保护的网络中删除。
+
+详情戳这里。
+https://github.com/PaulSec/twittor
+2. Attivo
+类别：欺骗技术
+大多数欺骗技术都有一个普遍的缺点：需要依赖于其它程序对由欺骗网络发现的攻击作出响应。Attivo最大的亮点是它的快速响应功能，并能够与第三方程序交互进行额外备份，通过直观的拖放界面进行配置，而且这些功能操作起来也非常简单。另外，内部沙盒、网络钓鱼电子邮件保护等附加功能更为这个工具起到了锦上添花的作用。
+https://github.com/Lucifer1993/struts-scan
+详情戳这里。
+
+3. Barracuda Web Application Firewall（梭子鱼web应用程序防火墙）
+类别：网络安全
+把梭子鱼WAF称作是防火墙实属过分谦虚。它更像是安全防御堡垒的核心，检查出入站流量。该WAF的功能类似于反向代理，位于数据通路的前端，能够拦截所有流量，检查该流量是否受到攻击，防止恶意流量进入服务器。无论是出站还是入站流量，只有符合安全策略，才能正常通过。
+
+详情戳这里。
+
+4. Bay Dynamics Risk Fabric
+类别：漏洞管理
+不得不说的是，很多漏洞管理程序都会引导IT团队去处理非关键资产中的关键威胁，这种方式有可能降低企业高危漏洞的优先级。当然，我们也不能把这种弊端归咎于产品本身，毕竟一般的漏洞管理程序都对所处的工作情境一无所知。Bay Dynamics Risk Fabric软件解决的就是漏洞管理领域这个常见问题。它在原始的扫描结果中添加了真实的环境信息，IT团队可以更好地了解其网络中隐藏的真实风险以及假如没有快速地解决这些问题会带来的潜在危害。
+
+详情戳这里。
+
+5. Bitdefender HVI
+类别：远程浏览器技术
+BitDefender虚拟机管理程序内省（HVI）工具位于虚拟机管理程序下方，可防止缓冲区溢出、heap spray（堆喷）、代码注入和API hooking等任何策略的执行，从而保护虚拟浏览器免受攻击。
+
+详情戳这里。
+
+6. CAWS Continuous Security Validation Platform（CAWS持续安全验证平台）
+类别：漏洞管理
+CAWS的核心功能是专门查找和修复网络威胁的测试实验室。使用该程序的客户有两种选择——公共版和付费版，公共版能够识别威胁，并为客户提供详细的网络修复建议，付费版能够实现镜像网络中的威胁防御。
+
+详情戳这里。
+
+7. Crossbow
+类别：漏洞管理
+这个漏洞评估平台是最实用但也是CSO测试过的最危险的工具之一。Crossbow所有可以加载或创建的攻击行为都是真实的，其中使用的实际技术和策略历史性地绕过了许多机构的网络安全防御措施。
+
+详情戳这里。
+
+8. Cyphon
+类别：托管检测
+提供装甲车服务的Dunbar公司主要负责保护客户资金安全。除了构建安全的物理结构、部署带武装警卫的装甲车之外，还需要保护相关数字基础设施和网络资产。开发Cyphon的初衷就是出于这个目的，应用于公司内部，保护其业务资产。后来，Dunbar将这个产品以保护即服务的模式推向了客户。
+
+详情戳这里。
+
+9. GreatHorn
+类别：网络（Network）安全
+由于大多数电子邮件网关设备只扫描已知的恶意域名或恶意软件，很多社工类的钓鱼邮件还是能够轻而易举地绕过这些防御措施。GreatHorn的诞生就是为了弥补这块空白。GreatHorn是一种内置于云端的软件即服务产品，能够与Microsoft Azure完美结合，Office 365用户可以同时运行GreatHorn与企业邮件服务器。
+
+详情戳这里。
+
+10. GuardiCore Centra
+类别：网络（Network）安全
+微分段是保护关键资产、用户数据等免受外部攻击和内部人员威胁的高级安全防御技术。对网络中的每一个进程、应用程序、用户与服务，以及他们的权限、交互方式进行授权，并且拦截所有授权之外的行为。GuardiCore Centra的一大亮点就是简化了微分段从初始安装到持续性程序管理的复杂工作。
+
+详情戳这里。
+
+11. InfoZen
+类别：DevOps（开发与运维）
+InfoZen是利用InfoZen云与DevOps实践服务创建的一个完全端到端的DevOps扫描解决方案。就算是在我们小型的测试环境中，InfoZen工具包所表现出来的智能和自动化功能也是显而易见的。
+
+详情戳这里。
+
+12. Kenna Security
+类别：漏洞管理
+Kenna Security的漏洞管理平台最大的特色就是漏洞优先级定位，首先处理最有可能损害受保护网络的高危漏洞。它能够监控最主要的实时威胁漏洞，并将受保护网络内的资产与之比较。
+
+详情戳这里。
+
+13. Lacework
+类别：云安全
+管理本地数据中心就已经是一项十分艰巨的任务了，保护云安全就更加困难了。Lacework能够顺利地帮我们处理所有疑难杂症，消除误报，为负责保护云安全的IT团队输出实时的可操作的威胁情报。
+
+详情戳这里。
+
+14. Minerva
+类别：端点安全
+Minerva的反绕过平台主要“对付”的是新一代的态势感知型恶意软件。传统的杀毒软件会拦截一些最为常见的威胁，而Minerva的作用是拦截一切试图绕过这些保护程序的安全威胁。
+
+详情戳这里。
+
+15. Promisec
+类别：端点安全
+Promisec提供威胁检测与响应服务，帮助客户处理日常安全问题，确保端点设备合规性，必要时提供自动化服务，同时对端点设备进行实时监控。对于具备成熟网络安全防护架构的大型企业来说，它就是一个力量倍增器；而对于那些无力防御威胁或满足安全合规的中小型企业来说，Promisec又是一个很好的启蒙产品。
+
+详情戳这里。
+
+16. RedSeal
+类别：网络（Network）安全
+RedSeal最初的产品定位是防火墙操作管理软件，后来慢慢转型为数字防御平台，致力于发现网络中的漏洞，包括防火墙中的漏洞和潜在的攻击方式。另外，它也能够评估网络健康状况并给出整体漏洞评分，帮助IT人员分析和解决安全问题。
+
+详情戳这里。
+
+17. SecBI
+类别：流量分析
+SecBI的新软件也有它的创新之处——解决了网络安全流量分析技术中的两个难题：可操作威胁情报数据的批量处理和对网络trapping（诱捕）硬件的依赖。
+
+详情戳这里。
+
+18. Sqrrl
+类别：流量监控
+Sqrrl Data将网络流量监控彻底转变为一个真正的威胁搜索平台，运维人员能够轻松地通过这个工具发现很多安全工具所不能发现的、具有极大杀伤力的高级威胁。
+
+详情戳这里。
+
+19. ThreatConnect
+类别：托管检测
+在目前开放的互联网环境中，我们不缺威胁源。任何人都能够订阅免费资源，每天获得数千条风险信息。而订阅有偿的威胁信息服务可能会为客户提供更有针对性的数据，而且可以确定的一点是，数据管理也变得轻松很多。ThreatConnect为用户弥合理论化的威胁信息与现实世界之间的差距，是管理和优化检测和响应能力的优良工具。
+Critical Stack使
+详情戳这里。
+SonarQube
+20. vArmour
+类别：云安全
+vArmour这套工具首先需要在用户网络内部重建一个软件边界，然后不断优化安全规则与策略，深入研究并应用微分段技术实现安全防护。
+【https://github.com/Hadesy2k/sqliv】
+详情戳这里。
+
+21. Waratek
+类别：容器安全
+Waratek相比于其它容器安全厂商，切入点完全不同：依靠即时编译，专注于发现大多数企业和运行java的应用程序中最大的安全风险。编译工程师进入信息安全领域为Waratek软件注入了与众不同的血液，实施了被很多公司都忽略的风格和方法。
+
+详情戳这里。
+
+22. XebiaLabs DevOps Platform
+类别：DevOps
+DevOps在安全领域的话题热度一直居高不下是有原因的：软件中的漏洞往往都只有在攻击者利用了之后才会被发现，由此造成的数据和经济损失不可估量。XebiaLabs的DevOps平台完美地解决了这一客户难题。
+
+详情戳这里。
+
+https://github.com/cisco/joy/
+2018-02-23,F=0, 安全开发之扫描器迭代记：W9Scan
+2018-02-22,F=0, 自动化合规测试工具InSpec 2.0促进DevSecOps发展
+2018-02-18,F=0, Sickle：推荐一款优质ShellCode开发工具
+2018-02-17,F=0, Kaggle：一套完整的网站流量预测模型
+Nethunter
+AutoSploit
+REMnux
+Frida框架
+https://www.strava.com/heatmap#14.71/120.78391/30.73558/hot/all
+ EvilURL v2.0一个生成用于钓鱼攻击的IDN域名的工具
+https://github.com/Danielohayon/MindLost
+514 kibana-5.5.2
+logstash-5.5.2
+elasticsearch-5.5.2
+paloalto软件版本7.1.14
+通用的log格式，和相应的上层构建
+入侵检测，别被入侵了很久都还没发现被入侵了。
+漏洞盒子
+One-Lin3r
+Packet Squirrel
+Chronicle
+Gillett称，新的公司会由两部分部分组成，一是新的网络安全情报分析平台，我们希望借此帮助企业更好地管理理解自身安全数据；二是VirusTotal，这是一个病毒情报服务，2012年由Google收购，这一部分会继续经营。
+摩诃草APT
+
+https://github.com/Siguza/IOHIDeous
+CoinHive
+开源工具Zeus-Scanner宙斯扫描器
+
+Inndy的Hack Game攻略（WEB篇）
+ProxyChains实现自动添加代理逃避检测
+
+717 免费代理2018-01-11,F=1, 经验分享 | 基于代理IP的挖掘与分析
+www。xicidaili。com
+
+cn-proxy。com(需要梯子)
+
+有自研能力首选使用 masscan+nmap 带自开发 UI 的资产管理程序；
+IVREhttps://ivre.rocks/
+漏洞管理也是2种思路
+
+主动漏扫，如OpenVAS、绿盟极光、Nessus 等；
+主机应用版本库识别的方式，如Vulshttps://github.com/future-architect/vuls；
+巡风也是很不错的东西，可以作为上述2种方法的补充，适合快速检测特定漏洞。
+2.3 主机入侵检测
+比较常见的是OSSEC，包含主机入侵检测、文件完整性分析、rookit分析的功能。新版本的日志可以直接设置成 json 格式，输出到 ELK 很方便。
+2.4 补丁管理
+通过运维系统批量部署补丁可能会方便些，如 SaltStack、Puppet 等。
+Bro，可以分析所有流量数据，如获得 HTTP 请求的 POST 数据，有威胁情报的插件，可以直接分析流量获得威胁情报事件；
+网络入侵检测系统，从设备上也能获得安全事件日志，开源的如 Snort 和 Suricata。
+DDos 监控，如fastnetmonhttps://github.com/pavel-odintsov/fastnetmon
+Netflow，流量分析，比较适用于纯运维工作。
+
+2.6 日志管理（SIEM）
+SIEM的部署或开发思路可以参考OSSIM，首先分析需要收集哪些日志，哪些日志可以做关联，通过这些日志能分析出哪些安全事件，其他安全事件怎么处理。 
+能收集的日志参考：
+http://www.webug.org
+安全设备日志
+Web日志
+主机入侵检测日志
+主机操作历史日志
+主机应用日志
+业务日志（如登录事件、关键业务操作事件）
+。。。
+411https://github.com/etsy/411，可以设置查询 ELK 的条件，发送邮件告警。
+
+
+静态代码自动化安全测试平台，SonarQube、Find Security Bugs，开源，可以和研发现有的Jenkins、Git、SVN集成在一起，Cobrahttps://github.com/wufeifei/cobra这个工具也不错；
+第三方依赖安全扫描工具，OWASP Dependency Check，免费，可以和研发现有的Jenkins集成在一起；
+动态应用程序自动化安全测试平台，OWASP ZAP、Arachni、AWVS、ThreadFix，部分开源，也可以和研发现有的Jenkins、Git、SVN集成在一起；
+移动APP漏洞自动化检测平台，MobSF、Inspeckage，开源，可执行静态代码检测+动态代码检测。 
+主要目的是自动化完成一部分安全测试工作，增加开发部署的速度。
+Detection Lab简介与使用指南
+Palo Alto防火墙
+OpenResty
+844 2017-12-28,F=1, 再见理想 | 2012年到2017年冬，信息安全渐行渐远
+》》做一个网段的扫描器
+ISF：一款基于Python的工控系统漏洞利用框架
+挖掘利器Andro Tickler：安卓应用渗透测试和审核工具箱
+Arachni
+MobSF
+Vulnreport是一款渗透测试管理与自动化平台，
+http://www.freebuf.com/articles/web/153055.html
+DroidPlugin
+955XSS防御速查表
+https://github.com/GeekOnlineCode/Code.git
+
+https://github.com/zerosum0x0/koadic
+https://github.com/0d9y/MyWebScan
+
+http://blog.0d9y.cn/
+
+
+https://github.com/blackarbiter/Android_Code_Arbiter
+https://github.com/We5ter/Scanners-Box
+XssPy
+https://github.com/kevthehermit/PasteHunter
+Grabber
+Pastebin
+Wapiti
+ACHE：一款功能强大的聚焦型网络爬虫
+Vega
+Wfuzz
+强大的开源网络侦查工具：IVRE
+https://github.com/she11c0der/Scanners-Box/blob/master/README_CN.md
+子域名遍历survey
+https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6
+Mimikatz
+Nikto
+著名开源网络取证工具Xplico远程未授权RCE漏洞
+https://github.com/ivyl/rootkit
+于后渗透利器Koadic的思考
+https://github.com/MiniSafe/microweb
+w3af
+https://github.com/RISCYBusiness/RISCYpacker
+https://github.com/blackarbiter/Android_Code_Arbiter
+
+Mitmproxy
+自动化沙箱打造之“关于XShell我有话说”
+
+
+FakeNet-NG是一款专为恶意软件分析人员以及渗透测试专家设计的下一代动态网络分析工具。
+https://github.com/operatorequals/covertutils
+
+
+
+Nmap的高级漏洞扫描模块Vulscan
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+
+最新开源工具NetRipper代码分析与利用
+
+AVPASS
+
+标准图片测试工具 Lenna 来进行检测。
+
+GitHub项目	简介
+Android Security	提供了一套与Android安全相关的资源
+AppSec	提供了大量关于应用程序安全方面的学习资源
+Bug Bounty	汇总了目前热门的漏洞奖励计划，并且还有很多Bug Hunter大神提供的Write-Up
+Cheatsheets	提供了渗透测试和安全检测可用的Cheatsheet
+CTF	提供了一套CTF框架、代码库、资源以及软件列表
+Cyber Skills	提供了一套黑客学习环境，你可以在这里合法地练习自己的黑客技术
+DevSecOps	一套实用的安全开发工具，得到了多名安全研究人员的测试和贡献
+Exploit Development	关于漏洞利用开发的学习资源
+Fuzzing	提供了一套学习模糊测试的资源，你还可以在这里学习漏洞利用开发的初始阶段知识，例如针对漏洞的成因进行分析等等
+Hacking	提供了优秀的黑客教程、工具以及资源
+Honeypots	蜜罐相关的资源
+Incident Response	提供了大量关于事件响应的工具
+Industrial Control System Security	一套关于工业控制系统（ICS）安全的资源
+InfoSec	优秀的信息安全课程以及培训资源
+IoT Hacks	关于物联网安全的相关资源
+Malware Analysis	优秀的恶意软件分析工具以及资源
+OSINT	优秀的开源情报（OSINT）工具及资源
+OSX and iOS Security	macOS和iOS相关的安全工具
+Pcaptools	一系列用于进行网络追踪的工具，均由计算机科学领域的专家负责开发
+Pentest	优秀的渗透测试工具以及相关资源
+PHP Security	生成安全随机数、加密数据和扫描漏洞的代码库
+Reversing	提供了丰富的逆向工程资源
+Sec Talks	提供了大量优秀的安全演讲内容
+SecLists	安全评估测试过程中需要用到的多种类型资源
+Security	提供了各种关于信息安全的优秀软件、代码库、文档、书籍、资源和工具
+Social Engineering	提供了丰富的社会工程学资源
+Static Analysis	提供了针对多种编程语言的静态分析及检测工具
+Threat Intelligence	集合了丰富的威胁情报资源
+Vehicle Security	关于学习汽车安全和汽车入侵的资源
+Vulnerability Research	关于漏洞研究方面的资源
+Web Hacking	关于Web应用安全的资源
+Windows Exploitation	关于Windows漏洞利用相关的资源
+WiFi Arsenal	针对802.11的WiFi破解资源
+其他同样优秀的项目
+Repository	简介
+API Security Checklist	当你在设计、测试和发布你的API时，可以参考这份清单来进行重要的安全测试
+APT Notes	各种关于APT活动的公开文档、白皮书以及研究报告
+Bug Bounty Reference	根据漏洞类型分类的漏洞Write-Up（来自各大漏洞奖励计划）
+Cryptography	密码学资源及工具
+CTF Tool	提供了CTF框架、代码库、资源及软件
+CVE PoC	提供了各种漏洞的PoC（按CVE划分）
+Forensics	一系列优秀的取证分析工具及资源
+Free Programming Books	为开发人员准备的免费编程书籍
+Gray Hacker Resources	实用的CTF和渗透测试资源
+Infosec Getting Started	一系列能够帮助人们了解信息安全行业的资源
+Infosec Reference	各种信息安全行业的参考资料
+IOC	一系列入侵威胁指标（IoC）合集
+Linux Kernel Exploitation	一系列与Linux内核Fuzzing以及漏洞利用相关的资源
+Machine Learning for Cyber Security	将机器学习应用到网络安全领域的相关资源
+Malware Scripts	与恶意软件有关的实用脚本
+Payloads	Web攻击Payload汇总
+PayloadsAllTheThings	实用的Payload以及绕过Web应用安全防护机制的资源
+Pentest Cheatsheets	可用于渗透测试的Cheatsheet资源
+Pentest Wiki	为渗透测试和安全研究人员准备的在线安全知识（免费）
+Probable Wordlists	用于密码生成和测试的字典
+Reverse Engineering	关于逆向工程的文章、书籍和论文
+RFSec-ToolKit	与射频通信协议相关的攻击工具及资源
+Security Cheatsheets	针对各种信息安全工具和主题的Cheatsheet
+Shell	一系列优秀的命令行框架、工具集、以及实用的shell脚本
+https://github.com/neoneggplant/EggShell
+apt-get install toilet
+screenfetch是一个能够在截屏中显示系统/主题信息的命令行脚本。
+sl终端会出现一个火车呼啸而过
+cmatrix《黑客帝国》的代码雨视觉特效。
+PowerSAP是一款开源的PowerShell工具，它可以帮助我们对安装了SAP产品的系统进行漏洞安全审计
+cowsay
+asciinema
+toilet -f mono12 -F border Debuff
+Memsniff：一款开源的memcached流量分析工具
+Angr：一个具有动态符号执行和静态分析的二进制分析工具
+https://github.com/taviso/loadlibrary#introduction
+流行远程终端管理工具Xshell
+http://www.xssed.com/
+一款功能强大的智能移动安全框架
+ King Phisher：一款专业的钓鱼活动工具包
+htcap：一款实用的递归型Web漏洞扫描工具
+ Dr0p1t-Framework
+Katyusha Scanner
+Bitscout
+Network（网络）
+l  Scapy：一款强大的交互式数据报分析工具，可用作发送、嗅探、解析和伪造网络数据包。
+
+l  pypcap、Pcapy和pylibpcap：配合libpcap一起使用的数据包捕获模块
+
+l  libdnet：底层网络工具，含接口查询和以太网帧传输等功能
+
+l  dpkt：可以快速简单地创建或解析数据包
+
+l  Impacket：制作和解码网络数据包，支持NMB和SMB等高级协议
+
+l  pynids：封装了libnids，可用于数据包嗅探、消除IP碎片、TCP流再封装和端口扫描检测
+
+l  Dirtbags py-pcap：读取pcap文件
+
+l  flowgrep：使用正则表达式检索数据包payload
+
+l  Knock Subdomain Scan：使用字典（wordlist）对特定域名进行子域名枚举
+
+l  Mallory：可扩展的TCP/UDP中间人代理，支持对非标准协议进行实时修改
+
+l  Pytbull：灵活的IDS/IPS测试框架，包含300多种测试
+
+Debugging and Reverse Engineering（调试和逆向工程分析）
+l  Paimei：逆向分析框架，包含PyDBG、PIDA和pGRAPH
+
+l  Immunity Debugger：用于加速漏洞利用程序的开发,辅助漏洞挖掘以及恶意软件分析，拥有完整的图形用户界面，并提供了命令行调试器
+
+l  mona.py：一款挖洞插件
+
+l  IDAPython：IDA Pro插件，整合了Python编程语言，并支持在IDA Pro中运行脚本
+
+l  PyEMU：支持脚本的完整IA-32模拟器，用于恶意软件分析
+
+l  pefile：读取并操作PE文件
+
+l  pydasm：提供了libdasmx86反汇编库的访问接口
+
+l  PyDbgEng：封装了微软WindowsDebugging引擎
+
+l  uhooker：拦截DLL内部的API调用，查看内存中可执行文件的任意地址
+
+l  diStorm：针对AMD64的反汇编库，遵循BSD许可协议
+
+l  python-ptrace：使用ptrace的调试器
+
+l  vdb/vtrace：vtrace是一款通过Python调试API的跨平台工具，vdb是vtrace所使用的调试器
+
+l  Androguard：可用于对Android应用进行逆向分析
+
+Fuzzing（模糊测试）
+l  Sulley: 集合了大量可扩展组件的模糊测试开发框架
+
+l  Peach Fuzzing Platform: 基于生成和变异的模糊测试框架（可扩展性强）
+
+l  antiparser: 模糊测试工具，提供了故障注入API
+
+l  TAOF：包含ProxyFuzz，一款中间人网络模糊测试器
+Geoip可视化攻击图谱：打造专属的炫酷风
+l  untidy：通用的XML模糊测试器
+深入探究文件Fuzz工具之Peach实战
+l  Powerfuzzer：高度自动化和完全可定制的Web模糊测试器
+使用轻量级工具Sysmon监视你的系统
+l  SMUDGE
+https://github.com/0Linchen/CTFCrackTools/raw/master/CTFtools.zip
+l  Mistress：通过畸形数据测试文件格式和协议的工具，基于预定义模式
+Pinda套件---恶意样本分析利器
+l  Fuzzbox：多媒体编解码模糊测试器
+PhishLulz
+l  Forensic Fuzzing Tools：可生成模糊测试文件和模糊测试文件系统，文件系统中包含取证工具和测试系统
+Insecure CAPTCHA
+l  Windows IPC Fuzzing Tools：利用Windows进程间通信机制来对应用程序进行模糊测试的工具
+AppMon
+l  WSBang：用于对Web服务进行自动化安全测试的Python工具
+Bugtroid
+l  Construct：解析和构建数据结构的代码库
+zANTI
+l  fuzzer.py (feliam)：FelipeAndres Manzano 设计的一款简单的模糊测试工具
+DroidSheep
+l  Fusil：编写模糊测试程序的代码库
+Hackode
+Web
+l  Requests：一个简单友好的HTTP库
+
+l  HTTPie：有好的类cURL命令行HTTP客户端
+
+l  ProxMon：处理代理日志，报告发现的问题
+
+l  WSMap：寻找Web服务节点，扫描文件
+
+l  Twill：通过命令行接口浏览Web，支持自动化Web测试
+
+l  Ghost.py：Webkit Web客户端
+
+l  Windmill：允许我们自动化测试和调试Web应用的Web测试工具
+Revenssis
+l  FunkLoad：该工具允许加载多功能的Web应用测试组件
+nethunter
+l  spynner：支持Javascript/AJAX的可编程Web浏览模块
+Cobalt Strike
+l  python-spidermonkey：桥接Mozilla SpiderMonkeyJavaScript引擎，允许对JavaScript脚本和函数进行测试和调用
+AndroidRat
+l  mitmproxy：支持SSL的HTTP代理，可通过命令行接口实时拦截和编辑网络流量
+https://github.com/rickey-g/fancybear
+l  pathod / pathoc：可向HTTP客户端和服务求提供畸形测试用例
+为保护隐私而生，反取证操作系统：kodachi
+Forensics（信息取证）
+l  Volatility：从RAM样本中提取数据
+
+l  LibForensics：开发数字取证应用的代码库
+
+l  TrIDLib：通过代码签名识别文件类型
+
+l  aft：Android取证工具
+
+Malware Analysis（恶意软件分析）
+l  pyew：命令行十六进制编辑器和反汇编工具，主要用于分析恶意软件
+
+l  Exefilter：过滤邮件、Web页面或文件中的文件格式，检测常见文件格式并能移除活动内容
+
+l  pyClamAV：向Python软件中添加病毒检测功能
+Mac OSX系统下的渗透利用工具Empyre
+l  jsunpack-n：通用的JavaScript拆包工具，可枚举浏览器功能并检测漏洞，针对的是浏览器和浏览器插件漏洞
+
+l  yara-python：识别和分类恶意软件样本
+https://github.com/anarcoder/google_explorer
+l  phoneyc：纯蜜罐系统
+Xerosploit是一款可以进行中间人攻击的渗透测试工具包。
+PDF
+l  Didier Stevens’ PDF tools: 分析、识别和创建PDF文件，包括PDFiD、pdf-parser、make-pdf和mPDF
+https://github.com/mre/awesome-static-analysis
+l  Opaf：开源PDF分析框架，可将PDF转换成可分析和修改的XML树
+
+l  Origapy：封装了Origami Ruby模块，可对PDF文件进行安全审查
+
+l  pyPDF：纯PDF工具，可提取、合并、加密和解密PDF内容
+
+l  PDFMiner：从PDF文件中提取文字内容
+图片后门捆绑利用工具 - FakeImageExploiter
+l  python-poppler-qt4：绑定了Poppler PDF库，支持Qt4
+
+a2.png
+支持MACRBACABAC多种模型的Golang访问控制框架Casbin
+杂项
+l  InlineEgg：Python工具箱，可用于编写小型汇编程序
+
+l  Exomind：开发开源智能模块的框架，以社交网络服务、搜索引擎和即时消息为中心
+
+l  RevHosts：根据给定IP地址枚举出虚拟主机
+
+l  simplejson：使用了 Google AJAX API的JSON解码/编码器
+
+l  PyMangle：用于创建渗透测试工具所用字典（Wordlist）的命令行工具/代码库
+
+l  Hachoir：查看和编辑代码流中的数据域
+
+l  py-mangle：另一款用于创建渗透测试工具所用字典（Wordlist）的命令行工具/代码库
+希望能够给你带来帮助。以下大部分工具可以在 GitHub 或 SourceForge 下载。
+
+Windows 调试工具
+通用调试器
+OllyDbg：经典的反汇编工具
+IDA pro：宇宙最强反汇编，支持源码级别的查看
+x64dbg：基于Qt的开源现代化的动态调试器
+Immunity Debugger：流行的用户模式调试器（依赖Python）配合 PyCommand 插件可构建 ROP 链。
+WinDbg：强大的用户态和内核态调试工具
+还有：SoftICE，Hiew
+一款能在GitHub代码库中探测密钥的工具：Truffle Hog
+VB6
+WKTVBDebugger：强大的VB P-code专用调试器
+VBExplorer：国产的VB资源编辑器
+VBParser：国产的专业VB反编译器
+以及：Exdec，VBDE
+Snuck：一款自动化XSS漏洞扫描工具（含下载
+Delphi
+DeDe：开源的Delphi符号查看器
+.NET
+PEBrowserDbg：快速的.NET动态调试工具
+Reflector：最强.NET反编译器
+Strong Name Remove：强名称移除工具
+RE-Sign：强名称替换工具
+NET Unpacker：脱壳工具
+另外还有：9rays Spices .net，Dis#，Decompiler .net，Xenocode Fox
+
+EXE修改
+LordPE：PE结构编辑器及Dump工具
+PEiD：EXE文件分析工具，配合插件功能强大
+eXeScope：EXE资源编辑器
+ResHacker：现代化的EXE资源编辑器
+IceSword：冰刀进程管理工具
+和 CFF Explorer。
+https://github.com/timwr/CVE-2016-5195
+EXE 加壳
+UPX：近乎完美的开源的压缩壳工具，包含DOS，Linux和Windows版本。
+ASPack：EXE、DLL、OCX压缩软件
+此外还有：PECompat，ASProtect，Armadillo，EXECryptor，Themida。
+https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass
+汇编工具
+NASM：跨平台汇编指令编译器。
+PunkSPIDER
+Linux 调试工具
+gdb：首选调试器
+Windows 逆向分析
+PE 文件分析工具
+LordPE，ProcDump、PETools
+其它工具
+COMRaider：ActiveX查看器
+Process Explorer：高级进程查看器
+漏洞挖掘
+AxMan Fuzzer：开源 ActiveX 模糊测试
+Nduja Fuzzer：浏览器模糊测试
+Grinder：模糊测试框架
+BugScan：二进制分析工具（IDA Pro脚本）
+BinDiff：1-day漏洞发掘
+浏览器 Fuzzer 还有：NodeFuzz，cross_fuzz，Jsfuzzer，nuf-fuzzer
+
+源代码审计工具
+ITS4、RATS(Rough Auditing Tool for Security)、Flawfinder、Splint(Secure Programming Lint)、PREfast、AppScan Source、Fortify、Yasca。
+it clone https://github.com/suraj-root/spade.git
+黑盒测试
+WebInspect、Acunetix Web Vulnerability Scanner、Peach、Radamsa、Zzuf、Sulley。
+https://github.com/phith0n/mooder
+1-day 漏洞
+Zynamics Bindiff（商用）、turbodiff、patchdiff2、Darungrim：IDA插件，通过各种技术和启发式方法来确定同一文件不同版本间的代码更改。
+
+Windows 访问控制模型
+ProcessExplorer：可以很方便地显示任意进程或线程的访问令牌（也可以通过 WinDbg 的 !token 命令查看）
+SubInACL：强大的 DACL 查看器
+AccessChk：用户友好的 DACL 查看器，支持枚举注册表 DACL
+AutoRuns：自启动程序查看器，等价命令行工具 autorunsc.exe
+ProcessMonitor：进程行为监视器
+漏洞数据库
+Exploit-db： Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more
+SecurityFocus：为了便于讨论有关计算机安全的主题，建立计算机安全意识，并向公众提供因特网上最大和最全面的计算机安全知识和资源数据库。它还承载了 BUGTRAQ 邮寄列表
+CVE：Common Vulnerabilities & Exposures（公共漏洞和暴露）
+ExploitBox：Information Security. Legal / ethical hacking. Independent security research and security advisories
+渗透测试
+Metasploit：开源的安全漏洞检测工具，可以帮助安全和IT专业人士识别安全性问题，验证漏洞的缓解措施，并管理专家驱动的安全性进行评估，提供真正的安全风险情报。这些功能包括智能开发，代码审计，Web应用程序扫描，社会工程
+SQLMap：SQL注入和攻击工具，开源且功能全面与Metasploit结合
+框架
+Attack API：总结了很多能直接使用的Payload
+BeEF：浏览器攻击平台框架，通过XSS漏洞配合 Metasploit 进行各种渗透功能
+Burp Suite：Web应用程序测试的最佳工具之一
+XSSF：跨站脚本攻击框架，利用XSS漏洞配合 Metasploit 展现出强大的渗透功能
+Nishang：基于PowerShell的渗透测试专用工具。集成了框架、脚本和各种payload。这些脚本是由作者在真实渗透测试过程中有感而发编写的，具有实战价值。包括了下载和执行、键盘记录、dns、延时命令等脚本
+Arachni：扫描效果有待加强，有Web配置界面
+Grabber-Scan：能够实现基本的Web应用漏洞扫描，对跨站攻击检测，对编码的处理还应该进一步加强
+Wapiti：对SQL注人的扫描准确度排名第一
+Zed Attack Proxy：OWASP支持开源Web扫描器，支持自动扫描和手工渗透
+Skipfish：著名黑客，Google工程师Michal Zalewski 的大作，扫描速度比较出色，个人认为扫描效果一般
+W3AF：综合性Web应川扫描和审计工具，著名安全公司Rapid7的Web安全部主管 Andresriancho 的一个开源项目，有自动扫描和手动扫描，强大的插件功能，功能全面，持续更新，与
+Metasploit结合，能够集成其他扫描工具。配置比较繁琐，部分功能需要进一步完善
+Sandcat Free Edition：该工具免费版在测试中表现出对XSS漏洞最好的检测效率
+PentestBox：Windows平台下预配置的便携式开源渗透测试环境
+Nishang：基于PowerShell的渗透测试专用工具。集成了框架、脚本和各种payload。这些脚本是由作者在真实渗透测试过程中有感而发编写的，具有实战价值。包括了下载和执行、键盘记录、dns、延时命令等脚本
+PowerSploit：又一款Post Exploitation 相关工具，Post Exploitation是老外渗透测试标准里面的东西，就是获取shell之后干的一些事情。PowerSploit 其实就是一些powershell 脚本，包括Inject-Dll(注入dll 到指定进程 )、Inject-Shellcode（注入shellcode到执行进程）、 Encrypt- Script（文本或脚本加密）、Get-GPPPassword（通过groups.xml 获取明文密码）、 Invoke- ReverseDnsLookup（扫描DNS PTR记录）
+Hijacker：安卓平台下的无线渗透工具。它几乎集成了 aircrack-ng 套件，mdk3 和 reaver 这些工具的功能。而且采用图形化用户界面
+更多
+snuck：自动化的XSS漏洞扫描工具
+3xp10it：是一个自动化渗透测试框架
+HeapLib2.js：在IE9~IE11上执行堆喷射的库
+Beef Injection Framework：自动重写Web流量
+XSS-Proxy：实时远控被攻击的浏览器
+HTML5 Security Cheatsheet：HTML5安全项目
+Cobalt Strike：提权工具
+mimikatz：法国人写的轻量级调试器。出众之处在于其可以直接从 lsass.exe 里获取Windows处于Active状态账号明文密码
+Fiddler：浏览器抓包分析工具
+HttpWatch：以插件的形式内嵌于浏览器中
+Wireshark（前称 Ethereal）：网络封包分析软件
+Aircrack-ng：一套破解 WEP 和 WPA 的工具套装
+Reaver：WPA/WPA2 破解工具
+hashcat：强大的密码破解工具，支持 GPU 加速，除了支持破解 WPA，还能破解 md5、zip 等密码
+Hydra：暴力破解工具，支持多种服务
+WebShell
+CKnife：Webshell管理工具
+webshell：WebShell集合
+中国菜刀：在Webshell管理器的基础上修改而来，功能更加强大
+漏洞攻击套件
+Sundown：新晋漏洞攻击套件
+Nuclear：漏洞攻击套件
+Angler Exploit Kit：漏洞工具包
+网络空间搜索
+Google Hacking
+SiteDigger：方便地利用 Google 进行信息收集
+Search Diggity、Wikto
+搜索引擎
+Shodan：全球最为出色的收费网络空间搜索引擎，丰富的API接口，2D/3D数据可视化，支持浏览器插件、命令行以及蜜罐探测
+Censys：开源学术研究项目，除了基本的IPV4查询以外，还可以针对域名和证书进行查询。
+Zoomeye：Shodan主要是对设备指纹进行扫描，但是zoomeye除了设备指纹的扫描以外，还增加了对域名和web服务器的指纹扫描。搜索速度非常快，用户体验也十分良好，域名的收集数量还有所欠缺。
+Fofa：白帽汇推出的一款网络空间资产搜索引擎。它能够帮助用户迅速进行网络资产匹配、加快后续工作进程。例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。
+搜索工具
+Fing：Android 上局域网络设备查看器
+IoTSeeker：物联网默认密码凭据网络扫描工具
+telnet-scanner：公网telnet服务设备扫描器
+Nmap：以其强大而丰富的功能被绝大部分人所使用。此外号称“45分钟扫描全网”的 Zmap 以及“6分钟扫描全网”的 Masscan 也有着较高的使用率
+Java / Android 反编译
+JReversePro：高质量开源 Java 反编译器（已停更，不推荐）
+JD decompiler：流行的 Java 反编译器（已停更，最高支持 Java 5）
+JEB（商用）：DEX 文件反编译，外观和使用体验都类似于 IDA
+DAD：开源 Androiguard 项目的一部分，提供了 DEX 反编译功能以及用于恶意软件分析的许多有趣脚本
+Dex2jar：将 DEX 转换为 JAR 文件从而进行 Java 反汇编或反编译
+Baksmali&smali：Dalvik 字节码反汇编和汇编程序
+Apktool：可以解码所有二进制 XML 文件
+欺骗攻击
+Ettercap：最灵活，功能最丰富（ARP 欺骗和 DNS 欺骗）的工具之一，支持 Lua
+Cain & Abel：有许多协议分解器，可以理解协议并获取用于破解的凭据
+arpspoof：只处理 ARP 欺骗
+Evilgrade：一个模块化的框架，允许用户注入假的更新
+Responder：NetBIOS&LLMNR 欺骗工具
+Fluxsion：进行 Wi-Fi 密码钓鱼一站式工具
+引用
+《灰帽黑客(第四版)：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》，2016-3，清华大学出版社，Daniel Regalado 等著
+《Metasploit 渗透测试魔鬼训练营》2013-8，机械工业出版社，诸葛建伟 等著
+Web漏洞统计之Exploit-db
+其他有用的库和工具
+l  IPython：多功能增强型交互式Python Shell
+flowdroid是一款对Android app进行风险分析的应用
+l  Beautiful Soup：爬虫可能会用到的HTML解析器
+国产“一句话”管理工具：开山斧
+l  Mayavi：3D科学数据虚拟化工具
+Exitmap是一个基于Python的Tor出口中继节点扫描器，具有快速和模块化的特点。 
+l  RTGraph3D：创建3D动态图像
+企业安全拥抱开源之利用Freeipa实现Linux用户身份、权限的统一管理
+l  Twisted：事件驱动型网络引擎
+致可以判断出行为。
+项目地址： https://github.com/ysrc/xunfeng
+如何用kwetza给安卓应用加后门
+Medicean Docker版本：https://github.com/Medicean/VulApps/tree/master/tools/xunfeng
+
+Atiger77 Docker版本：https://github.com/atiger77/XunFeng_Docker
+
+详细介绍&&ubuntu安装方法可以看:http://www.mottoin.com/94253.html
+
+
+规则可以基于开源waf规则，分析扫描器写正则也可以，开源waf地址是
+基于WAVSEP的靶场搭建指南
+https://github.com/loveshell/ngx_lua_waf/tree/master/wafconf。
+内部漏扫工具-巡风
+扫描器正则https://github.com/smarttang/w3a_SOCD的database里面有详细地址
+
+https://github.com/smarttang/w3a_SOC/tree/master/db_sql。
+l  Suds：用于Web服务的轻量级SOAP客户端
+
+l  M2Crypto：最完整的OpenSSL封装器
+
+l  NetworkX：图形库
+
+l  Pandas：可提供高性能数据结构的数据分析工具
+xwaf是一个python写的waf自动绕过工具,上一个版本是bypass_waf,xwaf相比bypass_waf更智能,可无人干预,自动暴破waf
+l  pyparsing：通用解析模块
+一直比较关注cloudflare的云WAF，基本上WAF规则可以考虑为三类（不考虑长亭科技的sqlchop https://github.com/chaitin/sqlchop ，据说有类似的xss 要开源)：: 1️⃣通用的规则，比如sql、xss 规则，拦截恶意爬虫和扫描器等等的非常有效，这种基本上通用的。2️⃣cms规则，就是根据不同的cms，根据相应的漏洞定制的规则，比如php网站，不可能存在java语言的漏洞，具有专一性。3️⃣自定义规则，这就是根据自己的需求，自定义一些规则。根据入侵类型，再细分就会更多了，拦截shell、爬虫等等的，这里只是输了大概。
+https://github.com/Chora10/FuzzDomain
+在github上面，最具参考的lua waf 就属 https://github.com/p0pr0ck5/lua-resty-waf 她了， 其它的并不是说不好，然而只有这个最接近Modsecurity的逻辑， 最突出的有点就是规则的弹性化，最接近Modsecrity的规则。 不过， https://github.com/starjun/openstar 里面的很多防御方法，也是可以借鉴的。
+l  lxml：采用Python编写的功能丰富且易于使用的XML和HTML工具
+https://github.com/orangetw/tsh
+l  Whoosh：纯Python实现的全功能文本索引、搜索库
+Mac OS下的wifi自动破解工具xwifi
+l  Pexpect：控制或实现其他程序的自动化，类似Don Libes `Expect` system
+如何用HERCULES绕过杀软
+l  Sikuli：虚拟化技术，通过截图实现搜索和自动化GUI，可利用Jython进行脚本扩展
+https://github.com/danielbohannon/Invoke-Obfuscation
+l  PyQt + PySide：Qt应用框架和GUI库所需模块
+https://github.com/yingshang/hack.git
+一款强大的WordPress漏洞利用框架 - WPXF
+1. https://github.com/sindresorhus/awesome
+快速构建站点地图工具 - PwnBack
+2. http://www.freebuf.com/tools/87400.html
+Scanners-Box是来自github平台的开源扫描仪的集合
+https://github.com/meirwah/awesome-incident-response/blob/master/README_ch.md
+iv. Python -m SimpleHTTPServer 80 (轻量级HTTP服务器)
+国产指纹库平台 - 天蝎指纹库
+Proton是一个针对macOS系统的恶意软件，
+AQUATONE
+RED HAWK
+v. SSH Tunnel (外网打洞)
+Antisamy是OWASP（open web application security project）的一个开源项目，
+b) Vultr vps 一台(Ubuntu 14.04)(公网IP:45.77.xx.xx)
+Ground-Control
+WiFiPhisher
+下：
+一款Android漏洞测试套件 - AndroidVTS
+1.backdoor-apk :https://github.com/dana-at-cp/backdoor-apk
+这个工具能帮你识别藏在CloudFlare后的真实IP - HatCloud
+2.  spade:  https://github.com/suraj-root/spade
+
+3. apk-embed-payload.rb:https://gist.github.com/SkullTech/a62d106b55562cc1ab88
+https://github.com/sunnyelf/cheetah
+4:当然还有@鸢尾大神的kwetza。
+https://github.com/meibenjin/GoogleSearchCrawler
+开源网络实时分析工具Skydive
+https://github.com/ysrc/xunfeng/blob/master/vulscan/vuldb/st2_eval.py
+心，安卓远控（spynote）升级了
+, 基于Python的远程管理工具（RAT） - Stitch
+主机级数据的搜集可以使用开源软件osquery。
+
+
+
+
+在这里恶意的数据集来自 https://github.com/foospidy/payloads  中的一些 XSS SQL注入等攻击的payload，结合github上一些知名仓库的payload，一共整
+JSShell：一个基于python的交互式Shell
+Exploit Kit攻击工具包
+https://github.com/huntergregal/mimipenguin
+ossec http://ossec.github.io/
+开源自动化信息收集工具SpiderFoot
+但是现有的poc有很多，如果扫描器开始是基于web指纹识别，如果识别出web指纹，然后针对web框架使用poc去验证，反而效果会更好。
+Subterfuge是一款用python写的中间人攻击框架，它集成了一个前端和收集了一些著名的可用于中间人攻击的安全工具。
+北极熊扫描器
+绿盟漏洞公告爬虫
+fb公开课
+Wifipineapple
+https://github.com/nanshihui/Scan-T
+最近在构思一个想法，现有的扫描器像awvs，AppScan，Nessus等都是基于web爬虫，然后根据爬取的地址去扫描。
+Seekret：GitHub仓库和目录敏感信息搜索工具
+Dracnmap：基于nmap的图形化网络信息搜集工具
+Hackmud
+Foxscan：一款基于SQLMAP的主动和被动资源发现扫描工具
+移动安全，从android入手
+https://github.com/grt1st/wooyun_search
+灵活布置、可二次开发的乌云公开漏洞及知识库搜索
+基于Github的源码白盒扫描工具Raptor
+Gartner
+3. Infer –源自Facebook 
+Facebook Infer是一款静态分析工具，如果你给Infer一些Objective-C、Java或C代码，它会生成一个潜在漏洞列表。在关键漏洞转移至用户手机之前，任何人都可以使用Infer拦截关键漏洞，并帮助防止死机或性能差。
+WAFNinja：一款绕过WAF的渗透测试工具
+4. Brakeman – 源自PresidentBeef 
+Brakeman是一个开源静态分析工具，负责检查Ruby on Rails应用程序的安全漏洞。
+
+5. Radare2 – 源自the Radare项目
+Radare是一个取证工具以及可编写脚本的命令行十六进制编辑器，可以打开磁盘文件、支持分析二进制、反汇编代码、调试程序以及连接到远程gdb服务器…
+
+6. OS X Auditor – 源自Jean-Philippe Teissier 
+OS X Auditor是一个免费的Mac OS X计算机取证工具，负责分析多类型文件的可疑内容。
+BruteXSS：XSS暴力破解神器
+7. BeEF – 源自BeEF项目 
+BeEF是The Browser Exploitation Framework的缩写，它是一个 专注网页浏览器的渗透测试工具。
+ Tunnel：论如何在内网中自由渗透
+8. Cuckoo – 源自Cuckoo沙盒项目 
+Cuckoo Sandbox是一个自动动态恶意软件分析系统。这意味着什么呢？简单来说就是，你可以将任何可疑文件丢给它，Cuckoo会在几秒内为你反馈一个详细结果，概括此类文件在在孤立环境中执行时的活动。
+SQLCipher之攻与防
+9. Scumblr – 源自Netflix 
+Scumblr是一个Web应用程序，允许执行定期搜索和存/取识别结果的行为。
+SSLyze：开源SSL安全监控工具
+10. Moloch – 源自AOL +
+BrowserBackdoor：一款基于JavaScript WebSocket的后门套装
+中国新型Web Shell “菜刀-Cknife”遭国外安全公司曝光
+渗透测试博客和资源排名
+Carnal0wnage
+Python渗透测试框架：PytheM
+这个博客是由一个攻击研究团队维护的，是渗透测试人员最好的信息来源之一，博客上发布了渗透测试技术、发现、新闻等等。该团队在Black Hat上开设了培训课程。
+OSTrICa
+PentestGeek
+摩诃草
+2012年开始活跃，PentestGeek博客致力于分享作者的经验。通过它也可以了解在大公司工作的经验丰富的渗透测试者的每日工作。
+
+Darknet
+
+1999年从一个IRC频道开始发展壮大，目前是一个定期更新的博客，讨论最新的渗透测试新闻、工具和技术，有30,000多个用户。
+mimikittenz（咪咪猫）：又一个Windows密码获取神器
+Lanmaster53
+米范web查找器：快速扫描端口并识别web应用
+Tim Tomes维护的博客，Tim在博客中会详细描述他的研究成果，博客内容覆盖从Linux Shells、DEFCON badge hacking到AppSec hacks。
+ T50：一款优秀的网站压力测试工具
+Marco Ramilli
+vFeed：结构化的漏洞与威胁数据库（支持CVE、CWE和OVAL）
+Marco是一个安全研究者和白帽黑客。他在教育界也很有名气，在数十年的工作经历中担任了各种教授和研究员职位。他的博客是对他的知识的扩展，Macro在博客上记录他发现的一些绝妙的技术。
+ngrok一款内网穿透+记录HTTP请求的神器
+Common Exploits
+马“Remvio”，
+由Daniel Compton维护，他是有20年的透测试经验的专家，Common Exploits旨在分享Daniel的技术，工具、漏洞利用方面的新闻，以及其它渗透测试领域的内容。
+社工库数据格式化之Kettle Spoon
+SANS Penetration Testing Blog
+阿D注入工具http://weibo.com/d99net
+SANS对于应用程序安全方面的人来说是一个非常好的资源。这个博客上可以找到各种渗透测试任务和挑战，用于测试你的能力，也会发布特定的渗透测试工具和技术。
+mth3l3m3nt：Web渗透测试辅助框架
+Trail of Bits Blog
+明小子的出现比较神秘。
+由维护Trails of Bits的团队写的博客，这是一个在攻防领域都很专业的安全公司，这个博客收集了他们分享的知识，帮助企业改进或修复安全问题。
+明小子的出现比较神秘。
+DigiNinja
+LCX是当时内网渗透或者提权的主要工具之一。
+Digininja对渗透测试者来说是一个必须要知道的资源，主要关注Metasploit、Wifi和网络，Digininja是信息安全领域的人必读的网站。
+御剑是一款网站目录扫描的工具
+Ethical Hacking LinkedIn Group
+流光扫描器冰河
+NetfukePangolin
+最好的获取最新渗透测试新闻的办法是，在你喜欢的社交网站中，加入到一个组里面或者关注渗透测试大牛。Ethical Hacking group是众多社区中的一个，你可以加入并分享你自己的渗透测试资源。
+Cowrie灰鸽子的作者是葛君。
+EHacking.net
+渗透测试报告模板https://github.com/juliocesarfort/public-pentesting-reports
+对所有渗透测试相关人员来说是一个非常棒的资源，Ehacking.net是又一个必须加入到书签的网站。
+ LOKI：一款APT威胁指标扫描软件
+Seclists.org
+https://github.com/Neo23x0/Loki
+现在，依然有一部分信息安全社区依靠邮件列表获取信息，尽管这看起来有些过时。Nmap Security Scanner人员运营着Seclists.org网站，提供了受欢迎的邮件列表的清单。不管是菜鸟还是渗透测试专家都可以找到适合自己的邮件列表。
+蜜罐系统设计
+Kitploit
+谷歌最近正致力于打造一款针对MacOS的恶意检测系统，目前它已经在Github上开源。这个由谷歌Macintosh Operations团队开发的项目名叫Santa，
+如果你在寻找特定类型的工具，你可以在Kitploit网站上找到。这里是渗透测试工具的宝库，把它加入到你的书签吧。
+https://github.com/quarkslab/binmap
+Manalyze：PE文件的静态分析工具
+基于Python使用Gmail通信的Windows后门：Gdog
+火眼实验室恶意软件开源分析工具Flare-floss
+WinPcap
+Fingerprintjs2：一款开源设备指纹采集器
+Panopticon：一款开源跨平台的汇编逆向工具
+海莲花
+WAFW00F可以提取Web应用防火墙的指纹，识别WAF产品类型。
+Wfuzz：一款强大的Web Fuzz测试工具
+https://github.com/facebook/fbctf
+Raptor WAF，轻量级WEB应用防火墙
+rop-tool是一款能帮助你制作二进制exp的工具。
+
+
+
+
+
+
+一、All-in-One移动安全框架
+MobSF：一款开源的智能化、集成化、自动化的移动应用（Android/iOS）渗透测试框架，可以执行静态和动态分析。（★★★★★）
+
+python manage.py runserver 127.0.0.1:1337
+二、Android应用渗透测试
+1. 渗透仿真环境
+Appie:一款便携式的Android渗透测试工具包，是现有虚拟机的绝佳替代者。（★★★★☆）
+
+Android Tamer：一个面向Android安全人员的虚拟/在线的平台。（★★★☆☆）
+
+AppUse：一款AppSec实验室开发的虚拟机。（★★★☆☆）
+
+Andro14b：也是一款虚拟机，主要目的是Android应用程序的评估、逆向工程以及恶意代码分析。（★★★☆☆）
+
+Mobisec：一个移动安全在线测试环境。（★★★☆☆）
+
+Santoku：一款操作系统，可以脱离虚拟机作为一个独立的操作系统运行。主要功能是逆向工程和静态分析。（★★★☆☆）
+
+2. 逆向工程和静态分析
+APKInspector：一款强大的Android应用程序分析的图形化工具。（★★★☆☆）
+
+APKTool：一款逆向分析二进制Android应用的工具。它可以将资源解码成原始格式，修改之后在重新打包成安装包。（★★★★☆）
+
+-反汇编- apk文件
+
+apktool d APK文件
+-使用数字签名把解码后的资源重新打包成APK/JAR文件
+
+apktool b 修改后的文件夹
+keytool -genkey -v -keystore keys/test.keystore -alias Test -keyalg RSA -keysize 1024 -sigalg SHA1withRSA -validity 10000
+jarsigner -keystore keys/test.keystore dist/test.apk -sigalg SHA1withRSA -digestalg SHA1 Test
+Dex2jar：一款将.dex文件转换成.class文件的工具（可通过zip压缩成jar）。（★★★★☆）
+
+-把apt文件转换成jar文件
+
+dex2jar apk文件
+Oat2dex：一款将.oat文件转成.dex文件的工具。
+
+-Boot类反优化（Deoptimize） (输出会在“odex” 和 “dex”文件夹)
+
+java -jar oat2dex.jar boot [boot.oat file]
+-应用反优化（Deoptimize）
+
+java -jar oat2dex.jar [app.odex] [boot-class-folder output from above]
+-从oat获取odex文件
+
+java -jar oat2dex.jar odex [oat file]
+-从oat/odex获取odex smali （优化过的操作码）
+
+java -jar oat2dex.jar smali [oat/odex file]
+JD-Gui：一款反编译和分析Java代码的工具。（★★★☆☆）
+
+FindBugs + FindSecurityBugs：FindeSecurityBugs是FindBugs的一个扩展，包含了Java应用程序的安全规则。（★★★☆☆）
+
+Qark：此工具是通过源码或已打包的APK文件来挖掘Android应用安全相关的漏洞。（★★★☆☆）
+
+AndroBugs：AndroBugs框架是一款高效的Android漏洞扫描器，可以帮助开发人员或渗透测试人员在Android应用程序查找潜在的安全漏洞。不需要在Windows上安装。（★★★☆☆）
+
+Simplify：该工具可以将Android程序包解混淆并生成Class.dex，然后我们使用Dex2jar和JD-GUI工具查看dex文件的内容。（★★★☆☆）
+
+simplify.jar ：输入的smali文件或文件夹 -o 输出的dex文件。
+ClassNameDeobfuscator：一个简单脚本，可以解析由apktool生成的.smali文件，提取.source注释行。
+
+3.动态和运行时分析
+Introspy-Android：黑盒测试工具，帮助我们理解Android应用程序在运行时的行为，协助我们识别潜在的安全问题。（★★★☆☆）
+
+Cydia Substrate：允许开发人员修改现有的应用程序，它通过将Substrate扩展注入到目标进程内存的方式实现。（★★★☆☆）
+
+Xposed Framework：Xposed框架可以在未修改任何Android应用程序包（APK）或重新刷机的情况下更改系统或应用配置，以及运行时的行为。（★★★☆☆）
+
+CatLog：Android日志图形化阅读器。（★★★☆☆）
+
+Droidbox：可用于动态分析Android应用程序。
+
+Frida：这个工具包工作在CS模式下，可以注入到正在运行的进程中，不仅适用于Android平台，还适用于iOS，WIndows和Mac平台。（★★★☆☆）
+
+Drozer：可以在应用程序和设备上搜索安全漏洞，它通过评估移动应用的角色，以及与Dalvik 虚拟机，其他应用程序的IPC端点、底层操作系统的进行交互。（★★★★☆）
+
+-开启一个会话
+
+adb forward tcp:31415 tcp:31415
+drozer console connect
+-检索安装包信息
+
+run app.package.list -f [app name]
+run app.package.info -a [package name]
+-识别攻击面
+
+run app.package.attacksurface [package name]
+-利用Activities
+
+run app.activity.info -a [package name] -u
+run app.activity.start --component [package name] [component name]
+-利用内容提供器（Content Provider）
+
+run app.provider.info -a [package name]
+run scanner.provider.finduris -a [package name]
+run app.provider.query [uri]
+run app.provider.update [uri] --selection [conditions] [selection arg] [column] [data]
+run scanner.provider.sqltables -a [package name]
+run scanner.provider.injection -a [package name]
+run scanner.provider.traversal -a [package name]
+-利用广播接收器（Broadcast Receivers）
+
+run app.broadcast.info -a [package name]
+run app.broadcast.send --component [package name] [component name] --extra [type] [key] [value]
+run app.broadcast.sniff --action [action]
+-利用服务
+
+run app.service.info -a [package name]
+run app.service.start --action [action] --component [package name] [component name]
+run app.service.send [package name] [component name] --msg [what] [arg1] [arg2] --extra [type] [key] [value] --bundle-as-obj
+4.网络分析和服务端测试
+Tcpdump：一款网络抓包的命令行工具。（★★★★☆）
+
+Wireshark：一款开源数据包分析工具。（★★★★☆）
+
+-实时在线捕获数据包
+
+adb shell "tcpdump -s 0 -w - | nc -l -p 4444“
+adb forward tcp:4444 tcp:4444
+nc localhost 4444 | sudo wireshark -k -S -i –
+Canape：面向任意协议的网络测试工具。
+
+Mallory：可以实施中间人攻击（MiTM）的攻击，监听和修改移动设备及应用的网络流量。
+
+Burp Suite：一款可以实施应用安全测试的集成平台。
+
+Proxydroid：一款Android系统的全局代理应用程序。
+
+5. 绕过Root检测和SSL证书绑定（Pinning）
+Android SSL Trust Killer：可用于绕过大部分应用程序的SSL证书绑定的黑盒测试工具。（★★★★☆）
+
+Android-ssl-bypass：一款Android调试工具，可以用来绕过SSL，即使应用程序实现证书绑定也能绕过，还包括其他的调试功能。这款工具以交互终端方式运行。（★★★☆☆）
+
+RootCoak Plus：这款工具可以绕过已知常见的root识别机制。（★★★☆☆）
+
+6. 安全库
+PublicKey Pinning：在Android设备上通过自定义的X509TrustManager实现证书绑定。除了执行绑定配置之外，X509TrustManager还需要实现自定义的X509证书检查。（★★★☆☆）
+
+Android Pinning：一个Android平台上实现证书绑定的独立库项目。（★★★☆☆）
+
+Java AES Crypto：一个加密&解密字符串的简单Android类，目标是避免大多数类出现的典型错误。
+
+Proguard：一款免费的Java类文件压缩、优化、混淆以及校验工具。它会检测和移除未使用的类、字段、方法以及属性。（★★★☆☆）
+
+SQL Cipher：一款开源的SQLite数据库的扩展，可以为数据库文件提供透明的256位AES加密。（★★★☆☆）
+
+Secure Preferences：Android共享配置封装器，而不是加密共享配置的密钥及其值。（★★★☆☆）
+
+Trusted Intents：可以实现应用程序之间灵活信任的交互。（★★★☆☆）
+
+三、iOS应用渗透测试
+1. 访问iDevice的文件系统
+FileZilla：可提供FTP、SFTP以及FTPS（FTP over SLL/TLS）通信。（★★★☆☆）
+
+Cyberduck：Mac和Windows平台上通过FTP, SFTP, WebDAV, S3, Azure & OpenStack Swift进行文件浏览。（★★★☆☆）
+
+itunnel：通过USB转发SSH。（★★★☆☆）
+
+iFunbox：iPhone，iPad&iPod Touch设备的文件及应用管理工具。（★★★☆☆）
+
+2.逆向工程和静态分析
+otool：可以显示对象（object）文件或库文件指定部分的内容。（★★★★☆）
+
+Clutch：解密应用程序，然后将指定的bundleID转储成二进制文件或.ipa文件。（★★★☆☆）
+
+Dumpdecrypted：在内存中从加密iPhone应用程序解密出mach-o文件，然后转储到磁盘上。这个工具需要研究人员能够了解背后的加密机制。（★★★★☆）
+
+iPod:~ root# DYLD_INSERT_LIBRARIES=dumpdecrypted.dylib /var/mobile/Applications/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/Scan.app/Scan
+class-dump：一款检查Mach-O文件中Objective-C运行时信息的命令行工具。（★★★☆☆）
+
+Weak Classdump：一个Cycript脚本，可以生成相应类的头文件。尤其当你无法转储类或已加密类，或当二进制文件经过加密时，这个工具最为有用。（★★★☆☆）
+
+iPod:~ root# cycript -p Skype weak_classdump.cy; cycript -p Skype
+#cy weak_classdump_bundle([NSBundle mainBundle],"/tmp/Skype")
+IDA Pro：一个Windows，Linux或Mac OS X跨平台多处理器的反汇编和调试的工具，由于它可以提供如此多的功能，我们无法在此一一表述。（★★★☆☆）
+
+HopperApp：一款面向OS X和Linux系统的逆向分析工具，可以反汇编、反编译、调试32/64位 Intel Mac、Linux、Windows及iOS系统的可执行程序。（★★★☆☆）
+
+iRET：一款iOS逆向工程的工具箱，主要是自动化执行与iOS渗透测试相关的大量通用任务。（★★★☆☆）
+
+3.动态和运行时分析
+cycript：允许开发人员使用Objective-C++和Javascript混合语法来检测和修改iOS或Mac OS X系统上正在运行的应用程序。它通过一个交互式命令终端，提供语法高明和tab自动补齐的功能。（★★★★☆）
+网络
+Scapy, Scapy3k: 发送，嗅探，分析和伪造网络数据包。可用作交互式包处理程序或单独作为一个库。
+pypcap, Pcapy, pylibpcap: 几个不同 libpcap 捆绑的python库
+libdnet: 低级网络路由，包括端口查看和以太网帧的转发
+dpkt: 快速，轻量数据包创建和分析，面向基本的 TCP/IP 协议
+Impacket: 伪造和解码网络数据包，支持高级协议如 NMB 和 SMB
+pynids: libnids 封装提供网络嗅探，IP 包碎片重组，TCP 流重组和端口扫描侦查 
+Dirtbags py-pcap: 无需 libpcap 库支持读取 pcap 文件
+flowgrep: 通过正则表达式查找数据包中的 Payloads
+Knock Subdomain Scan: 通过字典枚举目标子域名
+SubBrute: 快速的子域名枚举工具
+Mallory: 可扩展的 TCP/UDP 中间人代理工具，可以实时修改非标准协议
+Pytbull: 灵活的 IDS/IPS 测试框架（附带超过300个测试样例）
+
+调试和逆向工程
+Paimei: 逆向工程框架，包含 PyDBG, PIDA,pGRAPH
+Immunity Debugger: 脚本 GUI 和命令行调试器 
+mona.py: Immunity Debugger 中的扩展，用于代替 pvefindaddr
+IDAPython: IDA pro 中的插件，集成 Python 编程语言，允许脚本在 IDA Pro 中执行
+PyEMU: 全脚本实现的英特尔32位仿真器，用于恶意软件分析 
+pefile: 读取并处理 PE 文件
+pydasm: Python 封装的 libdasm
+PyDbgEng: Python 封装的微软 Windows 调试引擎
+uhooker: 截获 DLL 或内存中任意地址可执行文件的 API 调用
+diStorm: AMD64 下的反汇编库
+python-ptrace: Python 写的使用 ptrace 的调试器
+vdb/vtrace: vtrace 是用 Python 实现的跨平台调试 API, vdb 是使用它的调试器
+Androguard: 安卓应用程序的逆向分析工具
+Capstone: 一个轻量级的多平台多架构支持的反汇编框架。支持包括ARM,ARM64,MIPS和x86/x64平台。
+PyBFD: GNU 二进制文件描述(BFD)库的 Python 接口
+
+Fuzzing
+Sulley: 一个模糊器开发和模糊测试的框架，由多个可扩展的构件组成的
+Peach Fuzzing Platform: 可扩展的模糊测试框架(v2版本 是用 Python 语言编写的)
+antiparser: 模糊测试和故障注入的 API
+TAOF: (The Art of Fuzzing, 模糊的艺术)包含 ProxyFuzz, 一个中间人网络模糊测试工具
+untidy: 针对 XML 模糊测试工具
+Powerfuzzer: 高度自动化和可完全定制的 Web 模糊测试工具
+SMUDGE: 纯 Python 实现的网络协议模糊测试
+Mistress: 基于预设模式，侦测实时文件格式和侦测畸形数据中的协议
+Fuzzbox: 媒体多编码器的模糊测试
+Forensic Fuzzing Tools: 通过生成模糊测试用的文件，文件系统和包含模糊测试文件的文件系统，来测试取证工具的鲁棒性
+Windows IPC Fuzzing Tools: 使用 Windows 进程间通信机制进行模糊测试的工具
+WSBang: 基于 Web 服务自动化测试 SOAP 安全性
+Construct: 用于解析和构建数据格式(二进制或文本)的库
+fuzzer.py(feliam): 由 Felipe Andres Manzano 编写的简单模糊测试工具
+Fusil: 用于编写模糊测试程序的 Python 库
+
+Web
+Requests: 优雅，简单，人性化的 HTTP 库
+HTTPie: 人性化的类似 cURL 命令行的 HTTP 客户端
+ProxMon: 处理代理日志和报告发现的问题
+WSMap: 寻找 Web 服务器和发现文件
+Twill: 从命令行界面浏览网页。支持自动化网络测试
+Ghost.py: Python 写的 WebKit Web 客户端
+Windmill: Web 测试工具帮助你轻松实现自动化调试 Web 应用
+FunkLoad: Web 功能和负载测试
+spynner: Python 写的 Web浏览模块支持 Javascript/AJAX
+python-spidermonkey: 是 Mozilla JS 引擎在 Python 上的移植，允许调用 Javascript 脚本和函数
+mitmproxy: 支持 SSL 的 HTTP 代理。可以在控制台接口实时检查和编辑网络流量
+pathod/pathoc: 变态的 HTTP/S 守护进程，用于测试和折磨 HTTP 客户端
+
+取证
+Volatility: 从 RAM 中提取数据
+Rekall: Google 开发的内存分析框架
+LibForensics: 数字取证应用程序库
+TrIDLib: Python 实现的从二进制签名中识别文件类型
+aft: 安卓取证工具集恶意软件分析
+
+pyew: 命令行十六进制编辑器和反汇编工具，主要用于分析恶意软件
+Exefilter: 过滤 E-mail，网页和文件中的特定文件格式。可以检测很多常见文件格式，也可以移除文档内容。
+pyClamAV: 增加你 Python 软件的病毒检测能力
+jsunpack-n: 通用 JavaScript 解释器，通过模仿浏览器功能来检测针对目标浏览器和浏览器插件的漏洞利用
+yara-python: 对恶意软件样本进行识别和分类
+phoneyc: 纯 Python 实现的蜜罐
+CapTipper: 分析，研究和重放 PCAP 文件中的 HTTP 恶意流量
+
+PDF
+peepdf: Python 编写的PDF文件分析工具，可以帮助检测恶意的PDF文件
+Didier Stevens’ PDF tools: 分析，识别和创建 PDF 文件(包含PDFiD，pdf-parser，make-pdf 和 mPDF)
+Opaf: 开放 PDF 分析框架，可以将 PDF 转化为 XML 树从而进行分析和修改。
+Origapy: Ruby 工具 Origami 的 Python 接口，用于审查 PDF 文件  
+pyPDF2: Python PDF 工具包包含：信息提取，拆分，合并，制作，加密和解密等等
+PDFMiner: 从 PDF 文件中提取文本
+python-poppler-qt4: Python 写的 Poppler PDF 库，支持 Qt4
+
+杂项
+InlineEgg: 使用 Python 编写的具有一系列小功能的工具箱
+Exomind: 是一个利用社交网络进行钓鱼攻击的工具
+RevHosts: 枚举指定 IP 地址包含的虚拟主句
+simplejson: JSON 编码和解码器，例如使用 Google’s AJAX API
+PyMangle: 命令行工具和一个创建用于渗透测试使用字典的库
+Hachoir: 查看和编辑二进制流
+
+其他有用的库和工具
+IPython: 增强的交互式 Python shell
+Beautiful Soup: HTML 解析器
+matplotlib: 制作二维图
+Mayavi: 三维科学数据的可视化与绘图
+RTGraph3D: 在三维空间中创建动态图
+Twisted: Python 语言编写的事件驱动的网络框架
+Suds: 一个轻量级的基于SOAP的python客户端
+M2Crypto:  Python 语言对 OpenSSL 的封装
+NetworkX: 图库(边, 节点)
+Pandas: 基于 Numpy 构建的含有更高级数据结构和工具的数据分析包
+pyparsing: 通用解析模块
+lxml: 使用 Python 编写的库，可以迅速、灵活地处理 XML
+Whoosh: 纯python实现的全文搜索组件
+Pexpect: 控制和自动化程序
+Sikuli: 使用 Jython 脚本自动化基于截图进行视觉搜索
+PyQt 和PySide: Python 捆绑的 Qt 应用程序框架和 GUI 库
+
+书籍
+Violent Python TJ O’Connor著: 详细介绍黑客，取证分析，渗透测试和安全工程师的书 (注：乌云社区有中文翻译版，感谢草帽小子-DJ和crown丶prince 的翻译)
+Grey Hat Python Justin Seitz著: Python 编程用于黑客和逆向工程
+Black Hat Python Justin Seitz著:Python 编程用于黑客和渗透测试
+Python Penetration Testing Essentials Mohit著:借助 Python 的力量做到最好的渗透测试
+Python for Secret Agents Steven F. Lott著: 使用 Python 分析，加密和分析数据
+Magento是一套开源的电子商务系统，是主要面向企业的应用，可处理电子商务各方面的需求，包括像购物、航运、产品评论等等，最终为建设一个多用途和适用面广的电子商务网站提供帮助。
+其他
+SecurityTube Python Scripting Expert (SPSE) 由 Vivek Ramachandran 提供的在线课程和认证
+SANS 提供的相关课程 SEC573: Python for Penetration Testers
+Python Arsenal for Reverse Engineering: 收集有大量逆向工程相关的工具
+这是 SANS 关于用于取证分析的 Python 库的论文 (PDF)
+-显示当前视图
+APKInspector
+cy# UIApp.keyWindow.rootViewController.topViewController.visibleViewController
+Get an array of existing objects of a certain class
+cy# choose(UIViewController)
+-列举运行时的方法
+
+cy# [classname].messages or
+cy# function printMethods(className) { var count = new new Type("I"); var methods = class_copyMethodList(objc_getClass(className), count); var methodsArray = []; for(var i = 0; i < *count; i++) { var method = methods[i]; methodsArray.push({selector:method_getName(method), implementation:method_getImplementation(method)}); } free(methods); free(count); return methodsArray; }
+cy# printMethods("[classname]")
+-输出所有实例变量
+
+cy# function tryPrintIvars(a){ var x={}; for(i in a){ try{ x[i] = (a)[i]; } catch(e){} } return x; }
+cy# a=#0x15d0db80
+cy# tryPrintIvars(a)
+-通过属性进行控制
+DroidBox
+cy# [a pinCode]
+cy# [a setPinCode: @"1234"]
+cy# [a isValidPin]
+cy# a->isa.messages['isValidPin'] = function(){return 1;}
+iNalyzer：AppSec实验室研发的iNalyzer是一个控制iOS应用程序和监听参数及方法的框架。（★★★☆☆）
+
+idb：一款简化iOS渗透及研究工作中常见任务的工具。（★★★☆☆）
+
+snoop-it：一款协助iOS应用安全评估和动态分析的工具。（★★★☆☆）
+
+Introspy-iOS：一款黑盒测试工具，帮助研究人员了解iOS应用运行时的行为，识别潜在安全问题。（★★★☆☆）
+
+gdb：一款分析iOS应用运行时行为的工具。（★★★★☆）
+
+keychaindumper：一旦iOS设备越狱过，这款工具会检查keychain项是否可用。（★★★☆☆）
+
+BinaryCookieReader：从二进制文件Cookies.binarycookies中转储（dump）所有的cookie。（★★★☆☆）
+Droidsheep
+4. 网络分析和服务端测试
+Canape：面向任意协议的网络测试工具。（★★★☆☆）
+zANTI
+Mallory：可实施中间人攻击（MiTM）的攻击，监听和修改移动设备及应用的网络流量。（★★★★☆）
+FaceNiff
+Burp Suite：一款可以实施应用安全测试的集成化平台。（★★★★☆）
+
+Charles Proxy：HTTP代理/HTTP监听/反向代理，帮助监听和修改设备与互联网之间所有的HTTP及SSL/HTTPS流量。（★★★☆☆）
+
+5. 绕过Root检测和SSL证书绑定（Pinning）
+SSL Kill Switch 2：一款黑盒测试工具，可以禁用iOS和OSX应用程序的SSL证书验证，包括证书绑定。（★★★☆☆）
+
+iOS TrustMe：禁用iOS设备的证书信任检测。（★★★☆☆）
+
+Xcon：一款绕过越狱检测的工具。（★★★☆☆）
+
+tsProtector：另一款绕过越狱检测的工具。（★★★☆☆）
+
+6. 安全库
+PublicKey Pinning：通过NSURLConnectionDelegate实现iOS证书绑定。委托（delegate，此处指应用程序）必须在connection:didReceiveAuthenticationChallenge:内实现connection:canAuthenticateAgainstProtectionSpace:和connection:didReceiveAuthenticationChallenge:，还需要调用SecTrustEvaluate来执行自定义的X509证书检测。（★★★☆☆）
+合集包括了以下工具：
+类型        工具              描述
+binary    afl                目前最棒的 fuzzer.
+binary    angr            来自Sheephish的下一代二进制分析引擎
+binary    barf            二进制分析逆向工程框架
+binary    bindead            binaries静态分析工具
+binary    checksec        检查binary hardening 设置
+binary    codereason        赛门铁克的 Binary 代码分析框架
+binary    crosstool-ng    跨编译、跨结构的工具
+binary    elfkickers        一系列ELF文件的实用工具
+binary    elfparser        通过静态分析快速确定ELF二进制容量的工具
+binary    evilize            创建MD5碰撞的bainary工具
+binary    gdb                python2捆绑的最新的gdb
+binary    panda            为Architecture-Neutral动态分析的平台
+binary    pathgrind        基于路径的fuzzer.
+binary    peda            gdb的增强环境
+binary    preeny            一个有用的preload集合
+binary    pwntools        有用的CTF实用工具
+binary    python-pin        捆绑python的pin
+binary    qemu            最新版本的qemu
+binary    qira            省时的debugger
+binary    radare2               像crowell的非常棒的工具
+binary    rp++            另一个gadget查询工具
+binary    shellnoob        Shellcode编写工具
+binary    snowman            反编译工具
+binary    taintgrind        一个valgrind taint分析工具
+binary    villoc            堆操作可见化操作工具
+binary    virtualsocket    一个很棒的和binaries进行交互的库
+binary    xrop            Gadget查询工具
+forensics    binwalk        固件分析工具
+forensics    dislocker    用于读取磁盘加密的工具
+forensics    exetractor    Python拆包工具 支持PyInstaller和py2exe.
+forensics    firmware-mod-kit    固件拆包/组包工具
+forensics    pdf-parser    PDF文件挖掘工具
+forensics    scrdec        Windows脚本解码工具
+forensics    testdisk    文件恢复的测试盘
+crypto    cribdrag    交互式 crib dragging 工具(用于加密).
+crypto    foresight    预测随机数生成器的工具
+crypto    hashpump    部署哈希长度扩展攻击的工具
+crypto    hashpump-partialhash    支持只知道一部分哈希的哈希破解工具
+crypto    hash-identifier    简单的哈希算法识别工具
+crypto    littleblackbox    嵌入式设备的SSL/SSH私钥数据库
+crypto    msieve    实行某种算法来影响大整数的C语言库
+crypto    pemcrack    SSL PEM 文件破解
+crypto    pkcrack        PkZip 加密破解
+crypto    python-paddingoracle    Padding oracle 攻击自动化
+crypto    reveng    CRC 查询
+crypto    ssh_decoder    解密 ssh 通信。你需要ruby1.8 
+crypto    sslsplit    SSL/TLS MITM.
+crypto    xortool        XOR 分析工具
+crypto    yafu        自动整数因式分解
+web    burpsuite        Web 代理
+web        commix        命令行注入利用工具
+web        dirs3arch    Web 路径扫描
+web        sqlmap        SQL注入
+web        subbrute    能够枚举DNS记录和子域的工具
+stego    sound-visualizer    可视化audio文件
+stego    steganabara    另一种破解图像的工具
+stego    stegdetect    图像破解工具
+stego    stegsolve    图像破解工具
+android    apktool        Android APK分析、拆包、重新打包工具
+神器PEiD
+键盘记录工具PyKeylogger
+uArm
+工具推荐：Shellsploit，ShellCode生成器
+dfuz
+Autodafe
+antiparse
+LXAPI
+Scratch
+Bunny
+SPIKE
+NoSQLMap：开源自动化NoSQL数据库破解工具
+ECDH是基于ECC（椭圆曲线密码体制）的DH（Diffie-Hellman）密钥交换算法。交换双方可以在不共享任何秘密的情况下协商出一个密钥。
+Lobotomy：安卓系统评估渗透测试工具包
+teenage mutant ninja turtles v 1.5
+striptls审计代理
+ANGRY IP SCANNER
+Empire从上线到现在，已经在渗透方面有了很广泛的应用。
+https://github.com/foxglovesec/Potato
+Mimikatz是一款能够从Windows中获取内存，并且获取明文密码和NTLM哈希值的神器
+极客DIY：使用树莓派制作一架四轴无人机
+https://github.com/CIRCL/AIL-framework.git
+AIL-Framework：潜在信息泄露分析框架
+Sulley
+DHT爬虫：18.4GB种子分析小记
+浅析安全自动化编排平台Phantom
+工具推荐：v0lt，CTF安全工具包
+Clusterd：专门渗透应用服务器的开源工具包
+dhtfck
+WireEdit
+simDHT
+GM Bot和SlemBunk
+DHTCrawler
+Maligno：一个开源的渗透测试工具
+DHT-woodworm
+BetterCap：一个模块化的轻便的MiTM框架
+Solr搭建大数据查询平台
+Scanner Routerhunter，路由器漏洞扫描器
+工具推荐：Cknife，跨平台版中国菜刀正式开源
+ 工具推荐：Vuls，一款优秀的Linux漏洞扫描器
+中国蚁剑：一款跨平台的开源网站管理工具
+npm install git://github.com/felixge/node-ar-drone.git
+工具推荐：Inspeckage，安卓动态分析工具
+总的来说，目前城市客厅的产品设计是一个以地区和资讯三级分类为基础进行资讯展示的资讯类网站外加一个电商和旅游频道，咨询类；同时外加资讯的自定义标签和三级资讯的自定义完成不同资讯的在不同频道的信息展示；资讯内容分为：文字，图片，视频，直播，问答，... 。
+CrackMapExec：使用Python编写的一款工具，
+- 具体python实现：http://92ez.com/?action=show&id=49
+BackdoorMe：功能强大的自动化后门Fuzzing初学者指南：教你如何使用zzuf
+- wooyun：http://www.wooyun.org/bugs/wooyun-2013-026776
+本文中我们将介绍一款新工具PyAna，该工具旨在使得分析shellcode更容易。
+浅析Android开源渗透测试框架Drozer中的反射交互机制
+0×1 概述
+
+在Fuzzing过程中，必须要监控程序的执行状态，若程序发生异常，立即保存测试用例，以便将来对其进行重现。监控器的作用就是监控程序的执行，如果程序有异常时通知给Fuzzing主线程。
+
+目前Fuzzing工具各种各样，监控器也有很多种，但大多都是以调试器的方式实现。一个简单的监控器是这样实现的：
+
+（一）以调试模式启动进程，为目标进程开启调试端口，可使用参数DEBUG_ONLY_THIS_PROCESS，意为只调试本进程，更多说明请参照MSDN。
+
+1.JPG
+
+（二）等待调试事件，当进程内部发生调试事件时，通过调试端口向调试器发送事件。调试事件不仅仅指异常事件，创建进程、线程、加载库这些都是调试事件，异常事件是EXCEPTION_DEBUG_EVENT。
+
+2.JPG
+
+（三）处理调试事件，对应不同的调试事件，可作不同处理，若不感兴趣，可通过ContinueDebugEvent来忽略。调试器可对目标进程的操作具有较高的权限，可自由读取、修改目标进程的寄存器、内存信息，我们所使用最多的调试器，像Windbg、VCDebugger、OllyDbg等，也是从这些简单的函数实现而成的。
+
+3.JPG
+
+一个简单的HelloWorld例子位于codeproject，对这方面不太了解的朋友可以下载看看。
+
+0×2 不同的调试器接口
+
+当然，在实际工程中，我们没必要都从hello world开始写起，有很多的调试器接口已经被完善，方便我们直接调用，接下来随便举几个常见调试器的例子。
+
+（1）ImmLib
+
+一个集成在Immunity Debugger的Python库，但仅能在Immunity Debugger中调用。若写Immunity Debugger的插件时，将是不错的选择。
+
+（2）vtrace
+
+Vtrace是一款支持不同平台的调试器，同样也是使用Python编写而成。
+
+（3）OllyPython
+
+OllyPython使用Python编写而成，是OllyDbg的插件，也仅能在OD内使用。
+
+（4）PyDbg
+
+大家对PyDbg应该都很熟悉，在python灰帽子里有大幅的介绍与应用，但仅能用兼容Python2.4和2.5。
+
+（5）PyDbgEng
+
+PyDbgEng与Windbg集成实现而成，且支持强大的内核调试功能。
+快速、直接的XSS漏洞检测爬虫 - XSScrapy
+（6）WinAppDbg
+国产开源网站管理工具 - Altman3新版发布
+功能比较强大的调试器，与PydbgEng相似，但采用纯原生Win32 API实现而成，不依赖于任何调试器。
+自动化渗透测试工具 - Heybe
+（7）PyDbgExt
+使用Pfsense+Snorby构建入侵检测系统
+与PyDbgEng相反，PyDbgEng是通过Python实例化调试器引擎，而它是在调试器中添加Python解释器，在Windbg中使用。
+sebug漏洞库
+（8）pygdb
+网站压力测试工具 - 低轨道离子炮（LOIC）v1.0.8更新
+Pygdb是一个简单的GNU调试器的封装，提供GTK的接口，可在Linux与OSX下运行。
+透析挖洞神器mona.py插件新特性
+（9）PyKd
+码分析工具 - Pipal
+PyKd有点像将PyDbgEng与PyDbgExt混合到一起，可在调试器中调用，也可独立使用，有较大潜力的调试器。
+最好的Android安全测试框架 - Drozer
+（10）PyMem
+
+PyMem是使用Python编写的Windows上的一个内存插装库。
+
+（11）python-ptrace
+
+python-ptrace调用ptrace实现而成，仅能在POSIX系统上运行，如BSD、Linux。
+
+（12）PythonGdb
+开源NAC中的佼佼者 - PacketFence
+PythonGdb 是一个嵌入到GDB中的一个Python解释器。
+
+（13）Radare
+GitHack：一个git泄露利用脚本
+Radare是一个控制台程序，支持多平台的反汇编、调试框架。
+https://www.vulbox.com/lab
+（14）Universal Hooker (uhooker)
+开源加密软件TrueCrypt安全审计结束
+Uhooker实现了函数Hook的Python库，但较长时间未更新。
+更自动、更易用：安全扫描器Netsparker 4新版发布
+0×3、实现自己的调试监控器
+系统命令注入漏洞自动化测试工具 - Commix
+介绍了这么多的调试器接口，有轻量级的、有支持内核调试的、有支持Linux的、有内嵌到调试器中的，总有一款适合你的实际需要。使用它们也非常简单，只需要基本的编程知识即可。一般实现过程都是实例化一个调试器，然后启动目标进程，并开启事件来监听，如果发生异常，事件被激活，处理调试事件即可。
+国产工具：渗透测试助手PKAV HTTP Fuzzer发布
+给我印象比较深刻的是Peach的监控器，它通过Pit的配置后，启动一个本地或远程的Agent的，然后由Agent来监控目标进程的异常情况。当发生异常后，除了保存样本操作外，还会生成StackTrace，记录寄存器、调用栈，调用MSEC生成可利用性的报告，并根据exploitable提供的信息命名、分类、去重。基本上对后期分析有点价值的信息都被记录了，是一种比较好的方案。理所当然，重用它的代码就行。
+钓鱼攻击工具包Angler Exploit Kit初探
+Peach的结构很简单，通过Peach.py调用engine.run，在run中进行一系列初始化后，调用_runTest开始测试。创建了一个agent的实例用来监控目标程序，创建了一个watcher的实例用来记录异常信息。
+炫的开源中间人攻击（MITM）测试套件 - netool.sh（含视频）
+Debugger.py中包含了两个调试器接口类，一个是WindowsDebugEngine，用来与Windbg交互，支持Windows操作系统，另一个是UnixDebugger，使用Vtrace实现而成，支持POSIX系统。POSIX系统暂时不感兴趣，把这部分代码先删除掉。
+
+WindowsDebugEngine的构造函数中，首先对从pit文件中传进来的参数进行解析，这部分代码也不需要，删除修改。然后调用_StartDebugger来启动调试器，开启WindowsDebugEngineProcess_run的线程，调用PyDbgEng.ProcessCreator或PyDbgEng.ProcessAttacher来启动或附着到目标进程上，并注册调试事件处理器_DbgEventHandler，当异常事件发生后，在_DbgEventHandler中输出寄存器、调用栈、exploitable信息。
+
+对这个流程理解后，修改它就只是简单的工程了，添加了一个新类DebuggerMonitor作为代理，来处理用户的参数与DebugEngine之间的交互。
+Unix/Linux系统安全检查工具Lynis 2.1.0发布
+使用起来很简单，这是一个简单例子：
+使用Process Monitor分析
+4.JPG
+Exploit-Database官方GitHub仓库
+运行结果如下，看到了很舒服的命名方式：
+开源无线WiFi入侵检测&防护系统 - WAIDPS
+5.JPG
+使用INetSim
+6.JPG
+使用Process Explorer分析
+StackTrace中保存的内容如下：
+高效的DDoS攻击探测与分析工具 - FastNetMon
+7.JPG
+老牌Hash破解网站XMD5宣布免费
+8.JPG
+免费的MySQL数据库防火墙 - SQLassie
+DebuggerMonitor类的构造函数接受两个参数，分别是启动程序的命令行，及保存异常信息的目录。通过调用getLogDir来得到当前异常信息保存的目录，方便用户保存测试用例。
+Level 1——愣头青【百万人】：会使用安全工具，只能简单扫描、破译密码
+Level 2——系统管理员【上万人】：善用安全工具，特别熟悉系统及网络
+Level 3——大公司的开发人员或核心安全公司大牛【几千人】：对操作系统特别熟悉，开始开发代码，写自己的扫描器
+Level 4——能找到并利用漏洞【几百人】：自己能找漏洞、自己找0day并且写exp利用漏洞的；对系统做挖掘漏洞的协议测试
+Level 5——高水平【少于百人】：防御和构建系统的人
+Level 6——精英级【几十人到十几人】：对操作系统的理解很深入
+Level 7——大牛牛【寥寥无几】：马克·扎克伯格、艾伯特·爱因斯坦等改变世界的人
+
+在使用前需要四个依赖模块，分别是psutils、comtypes、pywin32、pydbgengine。
+
+下一步工作：还需要添加PageHeap的支持、添加服务、内核等监控接口，读者若需要可自行添加。
+
+Reverse是一个用来解析二进制文件的逆向工程工具，而且它可以生成更具可读性的代码（类C语言）并带有彩色标识的语法，便于研究人员进行阅读代码。目前，其交互模式仍在做进一步开发。
+B374K PHP WEBSHELL：一款简单却功能强大的远程管理工具
+安全运维利器：文件系统检测工具AIDE
+内网渗透辅助利器 - xosVer
+开源版ZoomEye：基于Python的网络侦查框架 - IVRE
+完整，模块化，轻量级，易扩展的MITM框架 - bettercap
+逆向分析神器BinNavi开源了
+强大的安卓手机远程管理工具 - Droidjack
+首款企业应急响应中心开发框架 - SRCMS·轻响应
+全球首款开源勒索软件 - Hidden Tear
+基于Node.js的跨平台Web抓包替换工具 - LivePool
+BWAPP：一款非常好用的漏洞演示平台
+Gcat：使用Gmail控制管理的Python后门
+https://github.com/netxfly/passive_scan。
+自动化渗透测试的侦察扫描仪：sn1per
+
+
+NaviSec
+
+网址：http://navisec.it
+
+网络安全人员的上网导航，安全人员必备网站。网站专注内容，并没有太多的装饰，风格极为简洁。常去的论坛、漏洞库、知名博客、应急响应中心，应有尽有。之前，一直苦于没有一个网站能将常见的安全网站收集在一起。navisec的出现使编者备感惊喜。
+
+钟馗之眼
+
+网址：http://www.zoomeye.org
+
+Zoomeye中文名为“钟馗之眼”，它定位于网络空间搜索引擎，能对暴露在公网的主机设备及网站组件进行全方位搜索（只要有IP地址即可搜索到），发现其中的漏洞，揪出网络中“藏着掖着的问题”。ZoomEye和Shodanhq的区别是ZoomEye目前侧重于Web层面的资产发现而Shodanhq则侧重于主机层面。网站的创作团队来自：知道创宇
+
+佛法
+
+网址：http://fofa.so
+
+FOFA网站信息搜索引擎，是一款为技术人员提供指纹识别，全网应用识别的开放式在线搜索引擎。
+
+撒旦
+
+http://www.shodanhq.com/
+
+Shodan可以说是一款“黑暗”谷歌，一刻不停的在寻找着所有和互联网关联的服务器，摄像头，打印机，路由器等等。Zoomeye的一些想法也借鉴与shodanhq，可以看出shodanhq的江湖地位有多高。网上有很多教程，有兴趣的朋友可以用shodanhq找找摄像头什么的。
+
+做网络安全行业，我认为有两点要具备：第一是敏锐的嗅觉，灵活高效的信息收集手段。第二是有一个刻苦钻研的精神。下面是我初步收集信息时用到的网站。
+
+Whois
+
+网址：http://Who.is
+
+Who.is 查询到的信息比较全面，还会显示一些域名历史记录、子域名信息、dns信息等等。在目前所接触到的网站里，他提供信息的可利用性非常不错。
+
+http://whois.domaintools.com
+
+收集的信息的比who.is要详细，可惜都要收费。免费的信息反而比who.is要少。有高要求的朋友可以考虑一下。
+
+ping 
+
+网址：http://ping.chinaz.com
+
+他的作用不仅是ping那么简单。主要的作用是检测目标网站是否使用了cdn。甚至可以挖掘出真实的网站ip。因为没有做太多的测试，在此不保证有效性。
+ookiel劫持测试工具 - Cookie Injecting Tools
+旁站查询
+Weevely（php菜刀）工具使用详解
+网址：http://dns.aizhan.com      http://www.114best.com/ip/
+Oracle数据库攻击测试工具 - ODAT
+旁注技巧，最早认识是在明小子的旁注工具。当年主机安全普遍很差，很多服务器都有本地溢出漏洞。只要搞下同服务器上的一个站，就能搞到目标网站。后来这种技巧延续下来，直至今天。
+揭秘渗透测试利器：Webshell批量管理工具QuasiBot
+网站指纹识别
+社会工程学神器 - theHarvester修改版
+网址：http://www.websth.com/      http://hacksoft.org/cms     http://whatweb.net/
+
+在正式进攻之前，我喜欢先了解下目标所用的程序。如果是开源程序，我们就去google、乌云、漏洞库等找找程序是否之前公开过漏洞。如果是对方自己编写的，也可以用以上工具识别对方是否使用了thinkphp等框架。知己知彼，百战不殆。
+ 使用Xenotix_XSS框架进行自动化安全测试
+大名鼎鼎的dsploit
+
+
+
+地址: http://dsploit.net/
+
+演示视频:http://www.dsploit.net/video/
+
+下载: http://www.dsploit.net/download/
+
+满足条件: Android2.3+,root，busybox
+
+dsploit作为一款优秀的渗透工具，几乎无人不知无人不晓，其功能之强大，功能包括
+
+端口扫描
+漏洞发现
+对路由器扫描
+伪造数据包
+会话控制(需要MSF RPC 连接)
+中间人攻击
+密码破解
+有能力可以攻占路由器( 没成功 )
+其中 中间人攻击中 可以自定义JS脚本（构造XSS）
+
+Unnamed QQ Screenshot20140619160821.pngUnnamed QQ Screenshot20140619160903.png
+
+Unnamed QQ Screenshot20140619160916.png
+
+而具体的内容Google 一搜一麻袋，不再多说，请参考dSploit—Android网络渗透套件测试小记
+
+该项目还在不断更新.
+
+更加强大的Network Spoofer
+
+networkspoofer
+
+地址: http://www.digitalsquid.co.uk/netspoof/
+
+下载: https://s3.amazonaws.com/
+
+演示视频: https://www.youtube.com/watch?v=sm-llBJA8EA
+
+满足条件: Android2.3+,root，busybox
+
+Unnamed QQ Screenshot20140619160931.png
+
+Unnamed QQ Screenshot20140619160944.png
+
+只知dsploit 而不解Network Spoofer，其功能之强大远比dsploit
+
+其具有
+
+“多项欺骗”（multiple spoofs)
+Blue ball machine! (按照说明 redirect all sites to the blue ball machine 没试过，呵呵）
+重定向YouTube
+delete random words (删除任意文字)
+替换Google 搜素
+包含dsploit 功能
+更加侧重于渗透而非破解,强烈推荐！
+
+超炫的zANTI
+
+Unnamed QQ Screenshot20140619162649.png
+
+地址: https://www.zimperium.com/zanti-mobile-penetration-testing
+
+免费版下载: https://www.zimperium.com/zanti-download
+
+满足条件: Android2.3+,root，busybox
+
+Unnamed QQ Screenshot20140619162855.png
+
+"zANTI is a comprehensive network diagnostics toolkit that enables complex audits and penetration tests at the push of a button. It provides cloud-based reporting that walks you through simple guidelines to ensure network safety."
+个人认为翻译成 “三体”更加合适，因为这更像一个安全体系，分成三个部分 ，ANTI,IPS,CONSOLE 
+
+详看截图.
+
+Unnamed QQ Screenshot20140619163137.png
+
+Unnamed QQ Screenshot20140619163152.png
+
+Unnamed QQ Screenshot20140619163217.png
+
+功能特性
+
+网络诊断，复杂的审计和渗透测试
+中间人攻击和包探嗅
+非常有好的界面
+namap端口扫描，探测出操作系统
+密码分析
+分为免费版和付费版，免费版对于连接服务器和自定义js和图片有限制，但初学者已经完全够用，
+
+比起dsploit和Network Spoofs来更加专业，界面甩十条大街.
+
+小巧的DroidSheep
+
+
+1、卢瓦(LOIC) (Low Orbit Ion Canon)
+
+LOTC是一个最受欢迎的DOS攻击工具。 这个工具被去年流行的黑客集团匿名者用于对许多大公司的网络攻击。 
+
+它可以通过使用单个用户执行DOS攻击小型服务器，工具非常易于使用，即便你是一个初学者。 这个工具执行DOS攻击通过发送UDP,TCP或HTTP请求到受害者服务器。 你只需要知道服务器的IP地址或URL，其他的就交给这个工具吧。 
+
+DDOS攻击测试
+
+下载卢瓦LOIC: http://sourceforge.net/projects/loic/
+
+2、XOIC 
+
+XOIC是另一个不错的DOS攻击工具。它根据用户选择的端口与协议执行DOS攻击任何服务器。XOIC开发者还声称XOIC比上面的LOIC在很多方面更强大呢。  
+
+DDOS攻击测试
+
+一般来说,该工具有三种攻击模式,第一个被称为测试模式，是非常基本的； 第二个是正常的DOS攻击模式； 最后一个是带有HTTP / TCP / UDP / ICMP消息的DOS攻击模式,。 
+
+对付小型网站来说，这是一个很有效的DDOS工具。 但是从来没有尝试的要小心点，你可能最终会撞自己的网站的服务器。 
+
+下载XOIC: http://sourceforge.net/projects/xoic/
+
+3、HULK (HTTP Unbearable Load King)
+
+HULK是另一个不错的DOS攻击工具，这个工具使用某些其他技术来避免通过攻击来检测。它有一个已知的用户代理列表，且使用的是随机请求。
+
+在这里下载HULK: http://packetstormsecurity.com/files/112856/HULK-Http-Unbearable-Load-King.html 
+
+4、 DDOSIM-Layer 
+
+DDOSIM是另一种流行的DOS攻击工具。 顾名思义,它是通过模拟控制几个僵尸主机执行DDOS攻击。所有僵尸主机创建完整的TCP连接到目标服务器。 
+
+这个工具是用c++写的,并且在Linux系统上运行。 
+
+这些是DDOSIM的主要特点： 
+
+模拟几个僵尸攻击 
+随机的IP地址 
+TCP-connection-based攻击 
+应用程序层DDOS攻击 
+HTTP DDos等有效的请求 
+与无效请求HTTP DDoS(类似于直流+ +攻击) 
+SMTP DDoS 
+TCP洪水连接随机端口
+在这里下载DDOSIM: http://sourceforge.net/projects/ddosim/ 
+
+阅读更多关于此工具: http://stormsecurity.wordpress.com/2009/03/03/application-layer-ddos-simulator/
+
+5、R-U-Dead-Yet 
+
+R-U-Dead-Yet是一个HTTP post DOS攻击工具。它执行一个DOS攻击长表单字段，通过POST方法提交。 这个工具提供了一个交互式控制台菜单，检测给定的URL,并允许用户选择哪些表格和字段应用于POST-based DOS攻击。 
+
+下载: https://code.google.com/p/r-u-dead-yet/ 
+
+6、 Tor&#039;s hammer
+
+Tor&#039;hammer是另一个不错的DOS测试工具。 它是用Python编写的。 这个工具有一个额外的优势:它可以通过TOR匿名网络执行攻击。 这是一个非常有效的工具,它可以在几秒内杀了Apache和IIS服务器。 
+伪造数据生成工具 - Faker
+下载TOR&#039;Hummer: http://packetstormsecurity.com/files/98831/ 
+基于爬虫结果的web路径扫描程序 - bcrpscan
+7、 PyLoris 
+开源Web应用防火墙-ModSecurity v2.8发布
+据说PyLoris是服务器的测试工具。它也可以用来执行DOS攻击。 这个工具可以利用 SOCKS代理和SSL连接服务器上执行DOS攻击。它可以针对各种协议,包括HTTP、FTP、SMTP、IMAP,Telnet。不像其他传统DOS攻击工具一样，其最新版本的软件添加了一个简单易用的GUI。
+国产BurpSuite插件 Assassin V1.1发布
+下载PyLoris: http://sourceforge.net/projects/pyloris/
+The Social-Engineer Toolkit V6.0发布
+8、OWASP DOS HTTP POST 
+
+这是另外一个很好的工具。您可以使用这个工具来检查您的web服务器能否够捍卫得住别人的DOS攻击。当然，不仅对防御，它也可以用来执行DOS攻击哦。
+
+下载: https://code.google.com/p/owasp-dos-http-post/
+暴力破解工具Hydra 8.0版本发布
+9、DAVOSET 
+
+DAVOSET是另一个很好的执行DDOS攻击工具。 最新版本的工具新增支持cookie以及许多其他功能。 您可以从Packetstormsecurity DAVOSET免费下载。
+
+下载DavoSET: http://packetstormsecurity.com/files/123084/DAVOSET-1.1.3.html
+
+10、黄金眼（GoldenEye ）HTTP拒绝服务工具 
+
+黄金眼也是一个简单但有效的DOS攻击工具。 这是在Python测试开发的DOS攻击,但是人们也把它当做一种黑客工具了。
+
+下载: http://packetstormsecurity.com/files/120966/GoldenEye-HTTP-Denial-Of-Service-Tool.html
+
+
+
+地址: http://droidsheep.de/
+
+下载: http://droidsheep.de/?page_id=23
+
+代码: https://code.google.com/p/droidsheep/
+
+演示视频: https://www.youtube.com/watch?v=z7NUluxUORs
+
+满足条件: Android2.3+,root，busybox
+浅析白盒安全审计中的XSS Fliter
+Unnamed QQ Screenshot20140619150737.png
+造可扩展的针对web漏洞的渗透测试平台 - skadi
+DriodSheep
+使用fuzzDB进行web安全测试
+捕获facebook、twitter、linkedin和其他账户。
+
+FB网友h4de5补充
+好吧，我来补充一些我自己常用到的工具网站：
+1、http://www.gpsspg.com/
+2、http://websth.com/
+3、http://www.showjigenzong.com/
+4、http://hd2001562.ourhost.cn/
+5、http://www.cz88.net/
+6、http://so.baiduyun.me/
+7、http://nmap.online-domain-tools.com/
+8、http://az0ne.lofter.com/post/31a51a_131960c 这个博客里面也有很多工具
+
+这些网站来自自己的订阅，还有许多自己收藏的各类小工具网站，需要的同学可以留言。
+开源项目CodeCombat：玩游戏就能学会编程
+Web漏洞演练平台 - ZVulDrill
+
+
+iOS开发安全学习工具 - OWASP iGoat
+
+
+
+
+最佳企业安全博客提名：
+    Juniper（网络厂商，不用多介绍）：http://forums.juniper.net/t5/Security-Mobility-Now/bg-p/networkingnow
+    Norse（提供前摄性的安全解决方案，基于dark intelligence平台防御当局高级威胁：http://norse-corp.com/blog-index.html
+    RedSeal Networks（安全管理解决方案）: http://blog.redsealnetworks.com/
+    Solutionary Minds: http://www.solutionary.com/resource-center/blog/
+    VioPoint(提供MSS服务): http://www.viopoint.com/blog/
+    WhiteHat Security: https://blog.whitehatsec.com
+    TripWire: The State of Security: http://www.tripwire.com/state-of-security/
+    Veracode Blog（基于云的软件安全供应商）: http://www.veracode.com/blog/
+    Mandiant M-unition: https://www.mandiant.com/blog/
+    Fortinet Blog（UTM，NGFW…）: http://blog.fortinet.com/
+    F-Secure Blog: http://www.f-secure.com/weblog/
+    Trend Micro Security Intelligence Blog（趋势科技）: http://blog.trendmicro.com/trendlabs-security-intelligence/
+    Kaspersky Lab Securelist（卡巴斯基）: http://www.securelist.com/en/blog
+    Akamai Blog（云平台，CDN…）: https://blogs.akamai.com/security/
+    Bit9（白名单软件机制管理厂商）: https://blog.bit9.com/
+    IOActive(安全评估公司): http://blog.ioactive.com/
+
+最佳安全播客提名：
+    SANS 的ISC每日播报 Stormcast: https://isc.sans.edu/podcast.html
+    MiSec, OWASP Detroit, BSides Detroit的播客: http://podcast.michsec.org/
+    Security Slice: http://www.tripwire.com/state-of-security/topics/security-slice-podcast/
+    Threat Post: https://www.threatpost.com
+    Security Ledger: https://securityledger.com/category/podcasts/
+    The Risk Science Podcast: http://riskscience.net/
+    SecurityWeekly: http://pauldotcom.com/
+    Securosis, Firestarter: https://securosis.com/blog/firestarter-the-nsa-and-rsa
+
+最佳教育安全博客提名：
+    RedSeal Networks: http://blog.redsealnetworks.com/
+    Terebrate: http://terebrate.blogspot.com/
+    EFF’s Deep Links: https://www.eff.org/deeplinks
+    Security Bistro: http://www.securitybistro.com/
+    Graham Cluley: http://grahamcluley.com/
+    Krebs on security: http://krebsonsecurity.com/ 可参考近期freebuf上的人物专访《人物：他是互联网世界的私家侦探》 
+
+    Identropy Blog: http://blog.identropy.com/
+    Dell SecureWorks Security and Compliance Blog: http://www.secureworks.com/resources/blog/
+    Securosis: https://securosis.com/blog
+    Solutionary Minds Blog: http://www.solutionary.com/resource-center/blog/
+    Rapid7 SecurityStreet: https://community.rapid7.com/content#filterID=all~objecttype~objecttype[blogpost]
+
+最佳娱乐安全博客提名
+    Krypt3ia: http://krypt3ia.wordpress.com/
+    Kevin Townsend: Security centric issues, news, rants – and other things: http://kevtownsend.wordpress.com/
+    Matt Blaze’s Exhaustive Search: http://www.crypto.com/blog
+    The New School of Information Security Blog: http://newschoolsecurity.com/
+    Uncommon Sense Security: http://blog.uncommonsensesecurity.com/
+    Errata Security Blog: http://blog.erratasec.com/
+    Securosis Blog: https://securosis.com/blog
+    Tripwire’s State of Security: http://www.tripwire.com/state-of-security/
+
+安全产业最佳代表博客提名
+    RedSeal Networks: http://blog.redsealnetworks.com/
+    Securosis: https://securosis.com/blog
+    Schneier on Security: https://www.schneier.com/
+    Naked Security: http://nakedsecurity.sophos.com/
+    SANS Internet Storm Center Diary: https://isc.sans.edu/diary.html
+    Liquidmatrix Security Digest: http://www.liquidmatrix.org/blog/
+    Emergent Chaos: http://emergentchaos.com/
+    Infosecisland: http://infosecisland.com/
+
+年度单篇最佳博/播客提名
+    网络安全管理实用指南 https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&eventid=720707&sessionid=1&        key=12AADDB88B4B10EFA1829537392F1722&sourcepage=register
+    Parmy Olson的关于Anonymous的一个书评: http://terebrate.blogspot.com/2013/05/book-review-we-are-anonymous-inside.html
+    Krebs的Adobe源代码泄露和用户数据泄露事件: http://krebsonsecurity.com/2013/10/adobe-to-announce-source-code-customer-data-breach/
+    Bruce Schneier的公布NSA计划的重要性讨论: https://www.schneier.com/blog/archives/2013/10/why_its_importa.html
+    竞赛与技能（有关安全教育方面的文章）: https://www.cerias.purdue.edu/site/blog/post/on_competitions_and_competence/
+    ISC2关于CISSP报考地点（2014-2017年期间）的选举事宜(Nov 16-30): http://securityuncorked.com/2013/11/cissp-call-to-action-isc2-elections/
+    关于Defcon禁止美国当局feds参加会议的讨论: http://policeledintelligence.com/2013/07/11/banning-feds-from-defcon-is-self-defeating-heres-why/
+    看过《国土安全》这美剧没？没有，那你知道心脏起搏器可以被黑吗？不知道，那你就不要看这篇文章了: http://blog.ioactive.com/2013/02/broken-hearts-how-plausible-was.html
+
+安全博客主名人堂提名
+    The hackers post: www.thehackerspost.com
+    J4VV4D: http://www.j4vv4d.com/
+    Dan Kaminsky (Or: The Blog Formerly Known As DoxPara Resarch) – http://dankaminsky.com/category/security/
+    Martin McKeay Network Security Blog: http://www.mckeay.net/author/martin/
+    Andy Greenberg, Forbes: http://www.forbes.com/sites/andygreenberg/
+    Lori MacVittie, F5 DevCentral: https://devcentral.f5.com/users/38/my-contributions/typeid/9
+    Emergent Chaos: http://emergentchaos.com/
+    Tracy Kitten: The Fraud Blog: http://www.bankinfosecurity.com/blogs/fraud-blog-b-18
+    Eric Chabrow: The Public Eye: http://www.govinfosecurity.com/blogs/public-eye-b-13
+
+最佳安全新闻博客提名
+    Gunter Ollmann, Dark Reading, Attacks and Breaches: http://www.darkreading.com/attacks-breaches
+    Jitender&#039;s Perspective: http://jitenderarora.co.uk/blog/
+    OMENS Blog: http://musectech.com/OMENSPortal/omens-blog.aspx
+    Cyb3r Assassins: https://cyb3rassassin.wordpress.com/
+    Security Management HQ: http://www.securitymanagementhq.com/
+    Exploring Possibility Space: http://exploringpossibilityspace.blogspot.com/
+    USA TODAY, CyberTruth: http://www.usatoday.com/blog/cybertruth/
+
+
+
+
+
+
+Web网站敏感目录/内容探测工具 - Cansina
+NoSQL数据库(如MongoDB)自动攻击测试工具 - NOSQLMap 
+SSLyze是一款利用python编写的工具，它可以分析服务器的SSL配置，能够快速、全面的协助测试人员发现SSL服务器的配置错误。
+新兴开源扫描器Golismero插件编写-UI插件编写 
+
+DNS信息探测工具 - DNSRecon v0.8.6
+
+SSLyze是一款利用python编写的工具，它可以分析服务器的SSL配置，能够快速、全面的协助测试人员发现SSL服务器的配置错误。
+漏洞检测框架-CANVAS:MOSDEF基础介绍 
+SPIP漏洞扫描工具 - SPIPScan
+网络
+
+Scapy: send, sniff and dissect and forge network packets. Usable interactively or as a library
+
+pypcap, Pcapy and pylibpcap: several different Python bindings for libpcap
+
+libdnet: low-level networking routines, including interface lookup and Ethernet frame transmission
+
+dpkt: fast, simple packet creation/parsing, with definitions for the basic TCP/IP protocols
+
+Impacket: craft and decode network packets. Includes support for higher-level protocols such as NMB and SMB
+
+pynids: libnids wrapper offering sniffing, IP defragmentation, TCP stream reassembly and port scan detection
+
+Dirtbags py-pcap: read pcap files without libpcap
+
+flowgrep: grep through packet payloads using regular expressions
+
+Knock Subdomain Scan, enumerate subdomains on a target domain through a wordlist
+
+Mallory, extensible TCP/UDP man-in-the-middle proxy, supports modifying non-standard protocols on the fly
+
+Pytbull: flexible IDS/IPS testing framework (shipped with more than 300 tests)
+调试和逆向工程
+
+Paimei: reverse engineering framework, includes PyDBG, PIDA, pGRAPH
+
+Immunity Debugger: scriptable GUI and command line debugger
+
+mona.py: PyCommand for Immunity Debugger that replaces and improves on pvefindaddr
+
+IDAPython: IDA Pro plugin that integrates the Python programming language, allowing scripts to run in IDA Pro
+
+PyEMU: fully scriptable IA-32 emulator, useful for malware analysis
+
+pefile: read and work with Portable Executable (aka PE) files
+
+pydasm: Python interface to the libdasm x86 disassembling library
+
+PyDbgEng: Python wrapper for the Microsoft Windows Debugging Engine
+
+uhooker: intercept calls to API calls inside DLLs, and also arbitrary addresses within the executable file in memory
+
+diStorm: disassembler library for AMD64, licensed under the BSD license
+
+python-ptrace: debugger using ptrace (Linux, BSD and Darwin system call to trace processes) written in Python
+
+vdb / vtrace: vtrace is a cross-platform process debugging API implemented in python, and vdb is a debugger which uses it
+
+Androguard: reverse engineering and analysis of Android applications
+Fuzzing
+
+Sulley: fuzzer development and fuzz testing framework consisting of multiple extensible components
+
+Peach Fuzzing Platform: extensible fuzzing framework for generation and mutation based fuzzing (v2 was written in Python)
+
+antiparser: fuzz testing and fault injection API
+
+TAOF, (The Art of Fuzzing) including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer
+
+untidy: general purpose XML fuzzer
+
+Powerfuzzer: highly automated and fully customizable web fuzzer (HTTP protocol based application fuzzer)
+
+SMUDGE
+
+Mistress: probe file formats on the fly and protocols with malformed data, based on pre-defined patterns
+
+Fuzzbox: multi-codec media fuzzer
+
+Forensic Fuzzing Tools: generate fuzzed files, fuzzed file systems, and file systems containing fuzzed files in order to test the robustness of forensics tools and examination systems
+
+Windows IPC Fuzzing Tools: tools used to fuzz applications that use Windows Interprocess Communication mechanisms
+
+WSBang: perform automated security testing of SOAP based web services
+
+Construct: library for parsing and building of data structures (binary or textual). Define your data structures in a declarative manner
+
+fuzzer.py (feliam): simple fuzzer by Felipe Andres Manzano
+
+Fusil: Python library used to write fuzzing programs
+Web
+
+Requests: elegant and simple HTTP library, built for human beings
+
+HTTPie: human-friendly cURL-like command line HTTP client
+
+ProxMon: processes proxy logs and reports discovered issues
+
+WSMap: find web service endpoints and discovery files
+
+Twill: browse the Web from a command-line interface. Supports automated Web testing
+
+Ghost.py: webkit web client written in Python
+
+Windmill: web testing tool designed to let you painlessly automate and debug your web application
+
+FunkLoad: functional and load web tester
+
+spynner: Programmatic web browsing module for Python with Javascript/AJAX support
+
+python-spidermonkey: bridge to the Mozilla SpiderMonkey JavaScript engine; allows for the evaluation and calling of Javascript scripts and functions
+
+mitmproxy: SSL-capable, intercepting HTTP proxy. Console interface allows traffic flows to be inspected and edited on the fly
+
+pathod / pathoc: pathological daemon/client for tormenting HTTP clients and servers
+取证
+
+Volatility: extract digital artifacts from volatile memory (RAM) samples
+
+LibForensics: library for developing digital forensics applications
+
+TrIDLib, identify file types from their binary signatures. Now includes Python binding
+
+aft: Android forensic toolkit
+恶意程序分析
+
+pyew: command line hexadecimal editor and disassembler, mainly to analyze malware
+
+Exefilter: filter file formats in e-mails, web pages or files. Detects many common file formats and can remove active content
+
+pyClamAV: add virus detection capabilities to your Python software
+
+jsunpack-n, generic JavaScript unpacker: emulates browser functionality to detect exploits that target browser and browser plug-in vulnerabilities
+
+yara-python: identify and classify malware samples
+
+phoneyc: pure Python honeyclient implementation
+PDF
+
+Didier Stevens' PDF tools: analyse, identify and create PDF files (includes PDFiD, pdf-parserand make-pdf and mPDF)
+
+Opaf: Open PDF Analysis Framework. Converts PDF to an XML tree that can be analyzed and modified.
+
+Origapy: Python wrapper for the Origami Ruby module which sanitizes PDF files
+
+pyPDF: pure Python PDF toolkit: extract info, spilt, merge, crop, encrypt, decrypt…
+
+PDFMiner: extract text from PDF files
+
+python-poppler-qt4: Python binding for the Poppler PDF library, including Qt4 support
+Misc
+
+InlineEgg: toolbox of classes for writing small assembly programs in Python
+
+Exomind: framework for building decorated graphs and developing open-source intelligence modules and ideas, centered on social network services, search engines and instant messaging
+
+RevHosts: enumerate virtual hosts for a given IP address
+
+simplejson: JSON encoder/decoder, e.g. to use Google's AJAX API
+
+PyMangle: command line tool and a python library used to create word lists for use with other penetration testing tools
+
+Hachoir: view and edit a binary stream field by field
+
+py-mangle: command line tool and a python library used to create word lists for use with other penetration testing tools
+其他有用的Py库和工具
+
+IPython: enhanced interactive Python shell with many features for object introspection, system shell access, and its own special command system
+
+Beautiful Soup: HTML parser optimized for screen-scraping
+
+matplotlib: make 2D plots of arrays
+
+Mayavi: 3D scientific data visualization and plotting
+
+RTGraph3D: create dynamic graphs in 3D
+先解释一下，情色电台PornIQ 并不仅仅是一个播放情色节目的电台，它还具有类似豆瓣电台（国外厉害的是Pandora电台）那样的智能推荐、主题推荐功能的情色视频推荐网站。
+Twisted: event-driven networking engine
+JSP端口转发工具 - KPortTran 
+Suds: lightweight SOAP client for consuming Web Services
+Linux系统安全检查工具——Lynis 
+M2Crypto: most complete OpenSSL wrapper
+
+NetworkX: graph library (edges, nodes)
+
+Pandas: library providing high-performance, easy-to-use data structures and data analysis tools
+ZMap：在一个小时内扫描整个互联网 
+pyparsing: general parsing module
+本地网络攻击测试集成工具——Zarp 
+lxml: most feature-rich and easy-to-use library for working with XML and HTML in the Python language
+
+Whoosh: fast, featureful full-text indexing and searching library implemented in pure Python
+
+Pexpect: control and automate other programs, similar to Don Libes `Expect` system
+本地网络连接监测软件SterJo NetStalker v.1.0 
+Sikuli, visual technology to search and automate GUIs using screenshots. Scriptable inJython
+https://github.com/evilcos/cookiehacker，
+PyQt and PySide: Python bindings for the Qt application framework and GUI library
+
+Mst是一款Python2.7编写的小漏洞利用平台，可运行在windows | Backtrack | maxosx 等系统，专注于web漏洞的测试和各种利用插件的编写
+
+DNS隧道制造工具——iodine 
+https://hacks.mozilla.org/2013/10/introducing-togetherjs/?from=ourjs.com

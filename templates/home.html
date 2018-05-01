@@ -1,0 +1,125 @@
+<head>
+    <title>Freebuf local</title>
+</head>
+<div id="head">
+    <div>FREEBUF Archieves </div>
+
+</div>
+
+<style>
+    a {
+        margin: 5px;
+    }
+
+    #head {
+        display: flex;
+    }
+
+    iframe {
+        width: 100%;
+        height: 85vh;
+    }
+
+    #fc {
+        display: grid;
+        grid-template-columns: 1fr 500px;
+    }
+</style>
+<div id="fc">
+
+    <div>
+        <a href="#" onclick="pre()">Prev</a>
+        <a href="#" onclick="next()">Next</a>
+        <input id="goid" type="number" value="1" />
+        <a href="#" onclick="go()">Go</a>
+        <a href="#" onclick="fav(1)">FAV</a>
+        <a href="#" onclick="fav(0)">UFAV</a>
+
+        <iframe src="page?p=1" id="f">
+
+        </iframe>
+
+        <div style="text-align: center;">
+        <a href="#" onclick="pre()">《《《《《《Prev</a>
+        <a href="#" onclick="fav(1)">*FAV*</a>
+        <a href="#" onclick="next()">Next》》》》》》</a></div>
+    </div>
+
+    <div>
+        <a href="#" onclick="lpre()">Prev</a>
+        <a href="#" onclick="lnext()">Next</a>
+        <input id="lgoid" type="number" value="1" />
+        <a href="#" onclick="lgo()">Go</a>
+
+        <iframe src="links?p=0" id="l">
+
+
+        </iframe>
+    </div>
+
+</div>
+
+<script src="/static/jquery.js" ></script>
+
+
+<script>
+    setTimeout(function () {
+        var n = parseInt(localStorage.getItem('n'))
+        console.log(n)
+        if (n) {
+            scur(n)
+            ref()
+        }
+    }, 500)
+    function cur() {
+        return parseInt(document.getElementById('goid').value)
+    }
+
+    function scur(n) {
+        document.getElementById('goid').value = n
+        localStorage.setItem('n', '' + n)
+    }
+    function next() {
+        scur(cur() + 1)
+        ref()
+    }
+    function pre() {
+        scur(cur() - 1)
+        ref()
+    }
+    function ref() {
+        document.getElementById('f').src = "page?p=" + cur()
+    }
+    function go() {
+        ref()
+    }
+
+    function lcur() {
+        return parseInt(document.getElementById('lgoid').value)
+    }
+
+    function lscur(n) {
+        document.getElementById('lgoid').value = n
+    }
+    function lnext() {
+        lscur(lcur() + 1)
+        lref()
+    }
+    function lpre() {
+        lscur(lcur() - 1)
+        lref()
+    }
+    function lref() {
+        document.getElementById('l').src = "links?p=" + lcur()
+    }
+    function lgo() {
+        lref()
+    }
+
+    function fav(vll) {
+        $.post('/page', {p:cur(), v:vll}, function(){
+            ref()
+        })
+    }
+
+</script>
