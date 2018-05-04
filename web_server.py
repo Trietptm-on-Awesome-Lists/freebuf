@@ -19,9 +19,8 @@ class Application(tornado.web.Application):
         handlers = [
             (r"/", HomeHandler),
             (r"/page", PageHandler),
-            (r"/links", LinksHandler)
-
-
+            (r"/links", LinksHandler),
+            (r"/fblinks", FBLinksHandler )
         ]
         settings = dict(
             template_path=os.path.join(os.path.dirname(__file__), "templates"),
@@ -91,6 +90,22 @@ class LinksHandler(BaseHandler):
             for l in  json.loads(i.LINKS):
                 self.write(u'<div><a href="{}" target="_blank">{}</a></div>'.format(l, l))
 
+
+class FBLinksHandler(BaseHandler):
+    def get(self):
+        self.render("links.html")
+
+    def post(self):
+        p = int(self.get_argument('p', default=0))
+        f = int(self.get_argument('f', default=-1))
+        d = SES.query(db.FB_LINK).offset(p).limit(1)
+        for l in d:
+            obj = dict(URL=l.URL, FAV=l.FAV)
+            self.write(json.dumps(obj))
+            if f >= 0:
+                l.FAV = f
+                SES.commit()
+
 def main():
     define("port", default=4444, help="run on the given port", type=int)
 
@@ -121,4 +136,4 @@ def links():
 
 
 if __name__ == "__main__":
-    links()
+    main()

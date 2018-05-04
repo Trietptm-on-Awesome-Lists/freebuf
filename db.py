@@ -30,6 +30,15 @@ class FB_ARTICLE(Base):
     TITLE = Column(String)
     FAV = Column(Integer)
 
+class FB_LINK(Base):
+    __tablename__ = "FB_LINK"
+
+    ID = Column(Integer, primary_key=True, autoincrement=True)
+    URL = Column(String)
+    NOTE = Column(String)
+    FAV = Column(Integer)
+
+
 class MyDB(object):
     def __init__(self):
         logging.info("database init")
